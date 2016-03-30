@@ -119,9 +119,9 @@ Metzger, J.P.; Alves, L.; Pardini, R.; Dixo, M.O.; Nogueira, A.; Negrão, M.; **
 
 - Masters Scholarship (FAPESP, 04/11279-7, 2005-2006) - Understory bird conservation in fragmented landscapes: The importance of land cover and configuration (R$ 13,000) 
 
-- Desenvolvimento Tecnológico e Industrial
+- Desenvolvimento Tecnológico e Industrial (CNPq)
 
-- Scholarship Alemanha
+- Scholarship Alemanha (2005)
 
 - IALE 2003 - Darwin, Australia (EUR$ 1000.00)
 
@@ -130,17 +130,17 @@ Metzger, J.P.; Alves, L.; Pardini, R.; Dixo, M.O.; Nogueira, A.; Negrão, M.; **
 <br>
 <h3>Awards</h3>
 
-2011 Most Cited Author - Biological Conservation (2008-2011), Elsvier
+2011 - Most Cited Author - Biological Conservation (2008-2011), Elsvier
 
-2011 Higly Cited Author - Biological Conservation (2008-2011), Elsvier
+2011 - Higly Cited Author - Biological Conservation (2008-2011), Elsvier
 
-2011 Higly Cited Author - Biological Conservation (2008-2011), Elsvier
+2011 - Higly Cited Author - Biological Conservation (2008-2011), Elsvier
 
-2010 Most Cited Author - Biological Conservation (2007-2010), Elsvier
+2010 - Most Cited Author - Biological Conservation (2007-2010), Elsvier
 
-2010 Higly Cited Author - Biological Conservation (2007-2010), Elsvier
+2010 - Higly Cited Author - Biological Conservation (2007-2010), Elsvier
 
-<h3>Seleção de apresentações internacionais</h3>
+<h3>Selected international presentations</h3>
 - I Latin America International Association of Landscape Ecology - Atlantic Forest Conservation - Oral presentation
 - I Latin America International Association of Landscape Ecology - Effects of habitat loss and fragmentation on birds - Oral presentation
 - Martensen, A. C., Pimentel, R. G. and Metzger, J. P. "Conservation of understory birds in the SE Atlantic rainforest, Brazil: corridor and fragment size effects" XIX Annual meeting of the Society for Conservation Biology (Brasília, Brasil -  2005) - Oral presentation
@@ -152,7 +152,7 @@ Metzger, J.P.; Alves, L.; Pardini, R.; Dixo, M.O.; Nogueira, A.; Negrão, M.; **
 
 <h3>Selected recent talks</h3>
 
-- Palestra IF 2011
+2011 - Talk Forest Institute of São Paulo (IF/SMA/SP)<p>
 - Palestra IB cm Jean
 - Palestra Saúde Pública
 - Palestra "Conservação e Manejo da Mata Atlântica Brasileira: oportunidades para a silvicultura", Faculdade de Tecnologia do Estado de São Paulo - FATEC (Capão Bonito, SP - 2008).  
@@ -172,11 +172,10 @@ Metzger, J.P.; Alves, L.; Pardini, R.; Dixo, M.O.; Nogueira, A.; Negrão, M.; **
 
 <br>
 <h3>Other academic experiences</h3>
-2005 - Exchange student - Department of Conservation Biology / Centre for Environmental Research, (Leipzig - Germany) and Department of Wildlife Ecology and Wildlife Management / University of Freiburg, (Freiburg - Germany) (funded by CNPq)
-
-2003-2004 - Responsible for the technical project: "Impacts of forest fragmentation on bird community in the Atlantic Rainforest: relative importance of fragment size and connectivity" (2003-2004)
-
-2001-2002 - Exchange student - Simulation and ecosystem management Lab, Forestry Department / University of British Columbia, Vancouver, Canada
+2005 - Exchange student - Department of Conservation Biology / Centre for Environmental Research, (Leipzig - Germany) (sponsor by CNPq)<p>
+2005 - Exchange student - Department of Wildlife Ecology and Wildlife Management / University of Freiburg, (Freiburg - Germany) (sponsor by CNPq)<p>
+2003-2004 - Responsible for the technical project: "Impacts of forest fragmentation on bird community in the Atlantic Rainforest: relative importance of fragment size and connectivity" (DTI/CNPq)<p>
+2001-2002 - Exchange student - Simulation and ecosystem management Lab, Forestry Department / University of British Columbia, Vancouver, Canada<p>
 
 <br>
 <h3>Languages</h3>
@@ -237,9 +236,9 @@ Main activities: <p>
 
 - Student representative in the Department of Ecology, University of São Paulo (2000-2001)
  
-<h3>Skills</h3>
+<h3>Computer skills</h3>
 
-Good on R, MarkDown, HTML, ArcGIS, basic Python and SQL 
+R, MarkDown, HTML, ArcGIS, basic Python and SQL 
 
 <h3>Outreach</h3>
 
