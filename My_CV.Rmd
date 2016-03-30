@@ -226,21 +226,21 @@ Main activities: <p>
 
 <h3>Courses</h3>
 
-2007 - Produção em Sistemas Agroflorestais. (Carga horária: 32h), IPE - Instituto de Pesquisas Ecológicas.
-2002 - Extensão universitária em Methods & tools to model and predict species distribution - University of Kansas.
-2002 - Análise de dados de biodiversidade, Programa Biota/Fapesp.
-2001 - Biologia de serpentes, Sociedade Brasileira de Herpetologia.
-2000 - Ecologia quantitativa: Introdução ao delineamento experimental e análise de dados, UNESP Rio Claro e UNITAU.
-2000 - Observação de aves, IB-USP-Semana Temática.
-2000 - Teoria dos refúgios e a Mata Atlântica, IB-USP-Semana Temática (prof. Aziz Ab'Saber)
-2000 - Fundamentos das ciências evolutivas, Fio Cruz.
-1999 - Técnica de estudo de felinos em vida livre, Congresso Brasileiro de Felinos.
-1999 - EIA-RIMA, IB-USP-Semana Temática.
-1998 - Extensão universitária em Anfíbios: Biologia, taxonomia e venenos, Instituto Butantan.
-1998 - Legislação ambiental, IB-USP-Semana Temática.
-1997 - Extensão universitária - Ecologia Vegetal, Instituto de Biociências da USP.
-1997 - Extensão universitária - Aspectos da biologia, comportamento e conservação de répteis, Fundação Parque Zoológico de São Paulo.
-1997 - Observação de aves, Centro de Estudos Ornitológicos.
+2007 - Produção em Sistemas Agroflorestais. (Carga horária: 32h), IPE - Instituto de Pesquisas Ecológicas<p>
+2002 - Extensão universitária em Methods & tools to model and predict species distribution - University of Kansas<p>
+2002 - Análise de dados de biodiversidade, Programa Biota/Fapesp<p>
+2001 - Biologia de serpentes, Sociedade Brasileira de Herpetologia<p>
+2000 - Ecologia quantitativa: Introdução ao delineamento experimental e análise de dados, UNESP Rio Claro e UNITAU<p>
+2000 - Observação de aves, IB-USP-Semana Temática<p>
+2000 - Teoria dos refúgios e a Mata Atlântica, IB-USP-Semana Temática (prof. Aziz Ab'Saber) <p>
+2000 - Fundamentos das ciências evolutivas, Fio Cruz<p>
+1999 - Técnica de estudo de felinos em vida livre, Congresso Brasileiro de Felinos<p>
+1999 - EIA-RIMA, IB-USP-Semana Temática<p>
+1998 - Extensão universitária em Anfíbios: Biologia, taxonomia e venenos, Instituto Butantan<p>
+1998 - Legislação ambiental, IB-USP-Semana Temática<p>
+1997 - Extensão universitária - Ecologia Vegetal, Instituto de Biociências da USP<p>
+1997 - Extensão universitária - Aspectos da biologia, comportamento e conservação de répteis, Fundação Parque Zoológico de São Paulo<p>
+1997 - Observação de aves, Centro de Estudos Ornitológicos<p>
 
 <h3>Volunteer experience</h3>
 
