@@ -1,0 +1,23 @@
+### My .gitignore files and directories
+
+# Directories to be ignored
+/others
+/figs
+/data
+/data_use
+
+# Files to be ignored 
+*.shp
+*.dbf
+*.shx
+*.prj
+*.pptx
+*.zip
+*.jpg
+*.gif
+*.png
+*.svg
+*.ico
+*.Rhistory
+*.html
+.Rproj.user
