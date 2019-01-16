@@ -15,9 +15,14 @@ Contact information:<br>
 
 ___
 
+<h3>Employment</h3>
+2018-current: Assistant Professor, Nature Science Centre, Federal University of São Carlos, Lagoa do Sino
+
+<br>
+
 <h3>Education</h3>
 
-2012-2017 ; **Ph.D.** Ecology and Evolutionary Biology, University of Toronto, Department of Ecology and Evolutionary Biology 
+2012-2017  **Ph.D.** Ecology and Evolutionary Biology, University of Toronto, Department of Ecology and Evolutionary Biology 
 <p>  Advisor: Marie-Josee Fortin
 
 2005-2008     **M.Sc.** University of São Paulo, Department of Ecology
@@ -28,6 +33,7 @@ ___
 2000-2001 	  Teacher diploma,	University of São Paulo,	Bioscience Institute.
 
 <br>
+
 <h3>Publications</h3>
 
 **2018** <p>
@@ -116,6 +122,10 @@ Metzger, J.P.; Alves, L.; Pardini, R.; Dixo, M.O.; Nogueira, A.; Negrão, M.; **
 <br>
 <h3>Teaching experience</h3>
 
+2018           - AD4 (Environmental monitoring), 4th year Environmental engineering - UFSCar <p>
+2018           - CET3 (Geoprocessing), 3rd year Biological Science undergraduate - UFSCar <p>
+2018           - DTS3 (Environmental Legislation), 3rd year Biological Science undergraduate - UFSCar <p>
+2018           - EMA3 (Landscape Ecology and Ecological Restoration), 3rd year Biological Science undergraduate - UFSCar <p>
 2016           - Applied Conservation Biology, Undergraduate Teaching Assistant, University of Toronto <p>
 2015           - Topics for Biodiversity Conservation, Undergraduate Teaching Assistant, University of Toronto <p>
 2013-2014      - Biostatistics, Undergraduate Teaching Assistant, University of Toronto <p>
@@ -213,7 +223,7 @@ II Brazilian Conference of Landscape Ecology, Salvador, Bahia, Brazil.
 <br>
 <h3>Professional Experience</h3>
 
-**Director of Taki Ambiental (2007-Present)** Main projects:<p>
+**Director of Taki Ambiental (2007-2018)** Main projects:<p>
 - Spatial analysis and sampling design for jaguar monitoring in the Alto Paranapanema river basin (2014-2015) - Concremat<p>
 - Forest restoration Guapiara e Almas river basins - SP (2011-2013) - Iniciativa Verde<p>
 - Spatial patterns in the Amazonian deforestation frontier (2012 - 2013) - WWF<p>
