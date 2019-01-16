@@ -16,7 +16,9 @@ Contact information:<br>
 ___
 
 <h3>Employment</h3>
-2018-current: Assistant Professor, Nature Science Centre, Federal University of São Carlos, Lagoa do Sino
+2018-current: Assistant Professor, Nature Science Centre, Federal University of São Carlos, Lagoa do Sino <p>
+
+2017-2018: Posdoc at the Genetics, Conservation and Evolutive Biology Department at the National Institute for Amazonian Research (GCBEV/INPA)
 
 <br>
 
@@ -39,23 +41,22 @@ ___
 **2018** <p>
 
 
-Giubbina, M.F., MARTENSEN, A.C., Ribeiro, M.C. 2018. Sugarcane and Eucalyptus plantation equally limit the movement of two forest-dependent understory bird species. Austral Ecology - DOI10.1111/aec.12589 
+Giubbina, M.F., **MARTENSEN**, A.C., Ribeiro, M.C. 2018. Sugarcane and Eucalyptus plantation equally limit the movement of two forest-dependent understory bird species. Austral Ecology - DOI10.1111/aec.12589 
 
 
 
-Hasui, É., J. P. Metzger, R. G. Pimentel, L. F. Silveira, A. A. d. A. Bovo, A. C. MARTENSEN, A. Uezu, A. L. Regolin, A. Â. Bispo de Oliveira, C. A. F. R. Gatto, C. Duca, C. B. Andretti, C. Banks-Leite, D. Luz, D. Mariz, E. R. Alexandrino, F. M. de Barros, F. Martello, I. M. d. S. Pereira, J. N. da Silva, K. M. P. M. d. B. Ferraz, L. N. Naka, L. dos Anjos, M. A. Efe, M. A. Pizo, M. Pichorim, M. S. S. Gonçalves, P. H. C. Cordeiro, R. A. Dias, R. d. L. Muylaert, R. C. Rodrigues, T. V. V. da Costa, V. Cavarzere, V. R. Tonetti, W. R. Silva, C. N. Jenkins, M. Galetti, and M. C. Ribeiro. 2018. ATLANTIC BIRDS: a data set of bird species from the Brazilian Atlantic Forest. Ecology V. 99, p. 497. DOI: 10.1002/ecy.2119
+Hasui, É., J. P. Metzger, R. G. Pimentel, L. F. Silveira, A. A. d. A. Bovo, A. C. **MARTENSEN**, A. Uezu, A. L. Regolin, A. Â. Bispo de Oliveira, C. A. F. R. Gatto, C. Duca, C. B. Andretti, C. Banks-Leite, D. Luz, D. Mariz, E. R. Alexandrino, F. M. de Barros, F. Martello, I. M. d. S. Pereira, J. N. da Silva, K. M. P. M. d. B. Ferraz, L. N. Naka, L. dos Anjos, M. A. Efe, M. A. Pizo, M. Pichorim, M. S. S. Gonçalves, P. H. C. Cordeiro, R. A. Dias, R. d. L. Muylaert, R. C. Rodrigues, T. V. V. da Costa, V. Cavarzere, V. R. Tonetti, W. R. Silva, C. N. Jenkins, M. Galetti, and M. C. Ribeiro. 2018. ATLANTIC BIRDS: a data set of bird species from the Brazilian Atlantic Forest. Ecology V. 99, p. 497. DOI: 10.1002/ecy.2119
 
 
 **2017** <p>
 
 
-Lima, F., G. Beca, R. L. Muylaert, C. N. Jenkins, M. L. L. Perilli, A. M. O. Paschoal, R. L. Massara, A. P. Paglia, A. G. Chiarello, M. E. Graipel, J. J. Cherem, A. L. Regolin, L. G. R. Oliveira Santos, C. R. Brocardo, A. Paviolo, M. S. Di Bitetti, L. M. Scoss, F. L. Rocha, R. Fusco-Costa, C. A. Rosa, M. X. Da Silva, L. Hufnagell, P. M. Santos, G. T. Duarte, L. N. Guimarães, L. L. Bailey, F. H. G. Rodrigues, H. M. Cunha, F. M. Fantacini, G. O. Batista, J. A. Bogoni, M. A. Tortato, M. R. Luiz, N. Peroni, P. V. De Castilho, T. B. Maccarini, V. P. Filho, C. D. Angelo, P. Cruz, V. Quiroga, M. E. Iezzi, D. Varela, S. M. C. Cavalcanti, A. C. MARTENSEN, E. V. Maggiorini, F. F. Keesen, A. V. Nunes, G. M. Lessa, P. Cordeiro-Estrela, M. G. Beltrão, A. C. F. De Albuquerque, B. Ingberman, C. R. Cassano, L. C. Junior, M. C. Ribeiro, and M. Galetti. 2017. ATLANTIC-CAMTRAPS: a dataset of medium and large terrestrial mammal communities in the Atlantic Forest of South America. Ecology v. 98, p. 2979. DOI: 10.1002/ecy.1998
+Lima, F., G. Beca, R. L. Muylaert, C. N. Jenkins, M. L. L. Perilli, A. M. O. Paschoal, R. L. Massara, A. P. Paglia, A. G. Chiarello, M. E. Graipel, J. J. Cherem, A. L. Regolin, L. G. R. Oliveira Santos, C. R. Brocardo, A. Paviolo, M. S. Di Bitetti, L. M. Scoss, F. L. Rocha, R. Fusco-Costa, C. A. Rosa, M. X. Da Silva, L. Hufnagell, P. M. Santos, G. T. Duarte, L. N. Guimarães, L. L. Bailey, F. H. G. Rodrigues, H. M. Cunha, F. M. Fantacini, G. O. Batista, J. A. Bogoni, M. A. Tortato, M. R. Luiz, N. Peroni, P. V. De Castilho, T. B. Maccarini, V. P. Filho, C. D. Angelo, P. Cruz, V. Quiroga, M. E. Iezzi, D. Varela, S. M. C. Cavalcanti, A. C. **MARTENSEN**, E. V. Maggiorini, F. F. Keesen, A. V. Nunes, G. M. Lessa, P. Cordeiro-Estrela, M. G. Beltrão, A. C. F. De Albuquerque, B. Ingberman, C. R. Cassano, L. C. Junior, M. C. Ribeiro, and M. Galetti. 2017. ATLANTIC-CAMTRAPS: a dataset of medium and large terrestrial mammal communities in the Atlantic Forest of South America. Ecology v. 98, p. 2979. DOI: 10.1002/ecy.1998
 
 
+**MARTENSEN**, A. C., S. Saura, and M.-J. Fortin. 2017. Spatio-temporal connectivity: assessing the amount of reachable habitat in dynamic landscapes. Methods in Ecology and Evolution 8:1253-1264. doi: 10.1111/2041-210X.12799 PDF
 
-MARTENSEN, A. C., S. Saura, and M.-J. Fortin. 2017. Spatio-temporal connectivity: assessing the amount of reachable habitat in dynamic landscapes. Methods in Ecology and Evolution 8:1253-1264. doi: 10.1111/2041-210X.12799 PDF
-
-Braga, A.C.R. & MARTENSEN, A.C. 2017. Smallholders: Drivers or targets of Amazonian deforestation? Human Geography 10(1): 67-69 PDF 
+Braga, A.C.R. & **MARTENSEN**, A.C. 2017. Smallholders: Drivers or targets of Amazonian deforestation? Human Geography 10(1): 67-69 PDF 
 
 **2015** <p>
 Banks-Leite, C.; Pardini, R.; Tambosi, L.R.; Pearse, W.D.; Bueno, A.A.; Bruscagin, R.T.; Condez, T.H.; Dixo, M.; Igari, A.; **MARTENSEN**, A.C., Metzger, J.P. 2015. Response to Comment on "Using ecological thresholds to evaluate the costs and benefits of set-asides in a biodiversity hotspot". Science 347(6223), pp 731.
@@ -122,11 +123,15 @@ Metzger, J.P.; Alves, L.; Pardini, R.; Dixo, M.O.; Nogueira, A.; Negrão, M.; **
 <br>
 <h3>Teaching experience</h3>
 
+2018           - Landscape Ecology, graduate course of Ecology and graduate course of Genetics, Conservation and Evolutive Biology of INPA (National Institute for Amazonian Research) <p>
 2018           - AD4 (Environmental monitoring), 4th year Environmental engineering - UFSCar <p>
 2018           - CET3 (Geoprocessing), 3rd year Biological Science undergraduate - UFSCar <p>
 2018           - DTS3 (Environmental Legislation), 3rd year Biological Science undergraduate - UFSCar <p>
 2018           - EMA3 (Landscape Ecology and Ecological Restoration), 3rd year Biological Science undergraduate - UFSCar <p>
+2018           - Landscape Ecology, to the Secretary of Environment of the State of Minas Gerais <p> 
+2017           - Scientific communication, for the graduate course of the Genetics, Conservation and Evolutive Biology depto, of the National Institute for Amazonian Research (GCBEv/INPA)
 2016           - Applied Conservation Biology, Undergraduate Teaching Assistant, University of Toronto <p>
+2015           - Landscape Ecology for the Secretary of Environment of the State of Rio Grande do Sul <p>
 2015           - Topics for Biodiversity Conservation, Undergraduate Teaching Assistant, University of Toronto <p>
 2013-2014      - Biostatistics, Undergraduate Teaching Assistant, University of Toronto <p>
 2012           - Community Ecology, Teaching Fellow, University of the State of São Paulo (Rio Claro) <p>
