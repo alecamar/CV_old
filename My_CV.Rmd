@@ -8,22 +8,22 @@ output: html_document
 <h3><center>Alexandre Camargo Martensen</center></h3>
 
 Contact information:<br>
-**Email:** martensen *at* terra.com.br, alex.camargomartensen *at* mail.utoronto.ca, acmartensen *at* gmail.com <br>
-**Phone:** +1 416 917 1481, +55 15 9700 9601
+**Email:** martensen *at* terra.com.br, acmartensen *at* gmail.com, martensen *at* ufscar.br <br>
+**Phone:**  +55 15 9 9700 9601 + 55 15 3256-9026
 
 ___
 
 <h3>Education</h3>
 
-2012-Present &nbsp; **Ph.D.** Ecology and Evolutionary Biology, University of Toronto, Department of Ecology and Evolutionary Biology 
-<p> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Advisor: Marie-Josee Fortin
+2012-2017 ; **Ph.D.** Ecology and Evolutionary Biology, University of Toronto, Department of Ecology and Evolutionary Biology 
+<p>  Advisor: Marie-Josee Fortin
 
-2005-2008 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;    **M.Sc.** University of São Paulo, Department of Ecology
-<p> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Advisor: Jean Paul Metzger
+2005-2008     **M.Sc.** University of São Paulo, Department of Ecology
+<p>  Advisor: Jean Paul Metzger
           
-1997-2001 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;	  **B.Sc.** Biological Science, University of São Paulo,	Bioscience Institute
+1997-2001 	  **B.Sc.** Biological Science, University of São Paulo,	Bioscience Institute
 
-2000-2001 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;	  Teacher diploma,	University of São Paulo,	Bioscience Institute.
+2000-2001 	  Teacher diploma,	University of São Paulo,	Bioscience Institute.
 
 <br>
 <h3>Publications</h3>
