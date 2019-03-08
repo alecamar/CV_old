@@ -58,7 +58,7 @@ MARTENSEN, A. C. 2017. Participação em banca de Carolina Moreira Fernandes Fer
 
 **Undergraduate  dissertation**
 
-
+Tamires Aparecida Machado. Ocorrência de bromélias em fragmentos florestais. 2013. Trabalho de Conclusão de Curso (Graduação em Silvicultura) - Centro Estadual de Educação Tecnológica Paula Souza.
 
 **Masters  dissertation**
 
@@ -201,13 +201,15 @@ Metzger, J.P.; Alves, L.; Pardini, R.; Dixo, M.O.; Nogueira, A.; Negrão, M.; **
 
 - Connaught International Scholarships for Doctoral Students (2012-2016, CAD$150,000)<p>
 
+- Desenvolvimento Tecnológico e Industrial (CNPq, 2007-2008) <p>
+
 - Masters Scholarship (FAPESP, 04/11279-7, 2005-2006) - Understory bird conservation in fragmented landscapes: The importance of land cover and configuration (R$ 13,000) <p>
 
-- Desenvolvimento Tecnológico e Industrial (CNPq) <p>
+- Desenvolvimento Tecnológico e Industrial (CNPq, 2003-2004) <p>
 
-- Scholarship Alemanha (2005) <p>
+- Scholarship visiting student Germany (CNPq, 2005) <p>
 
-- IALE 2003 - Darwin, Australia (EUR$ 1000.00) <p>
+- IALE 2003 - Darwin, Australia (EUR$ 1000.00, for attending Conference) <p>
 
 - Undergraduate research scholarship (FAPESP - 00/08046-0) - Variation in the abundance and richness of understory birds in a fragmented landscape <p>
 
@@ -252,7 +254,13 @@ Metzger, J.P.; Alves, L.; Pardini, R.; Dixo, M.O.; Nogueira, A.; Negrão, M.; **
 
 <br>
 <h3>Academic services</h3> <p>
-**Reviewer**: Nature Sustainability, Journal of Biogeography, Bird Conservation International, Biodiversity and Conservation, Biological Conservation, Biology Letters, Biota Neotropica, Ecological Indicators, Ecological Applications, Journal of Applied Ecology, Journal of Field Ornithology, Natureza e Conservação, Ecography, Plos One, Brazilian Journal of Ornithology (A rarajuba)
+**Reviewer**: Nature Sustainability, Journal of Biogeography, Bird Conservation International, Biodiversity and Conservation, Biological Conservation, Biology Letters, Biota Neotropica, Ecological Indicators, Ecological Applications, Journal of Applied Ecology, Journal of Field Ornithology, Natureza e Conservação, Ecography, Plos One, Brazilian Journal of Ornithology (Ararajuba)
+
+- Vice-president of the International Association of Landscape Ecology, Brazilian Chapter (2010-Current)
+
+- Student representative in the International Association for Landscape Ecology - Brazilian Chapter (2005-2010)
+
+- Student representative in the Department of Ecology, University of São Paulo (2000-2001)
 
 <br>
 <h3>Other academic experiences</h3>
@@ -275,6 +283,7 @@ II Brazilian Conference of Landscape Ecology, Salvador, Bahia, Brazil.
 <h3>Professional Experience</h3>
 
 **Director of Taki Ambiental (2007-2018)** Main projects:<p>
+- Site Prioritization for Atlantic Forest Conservation (IPÊ/MMA, 2017-2018)
 - Spatial analysis and sampling design for jaguar monitoring in the Alto Paranapanema river basin (2014-2015) - Concremat<p>
 - Forest restoration Guapiara e Almas river basins - SP (2011-2013) - Iniciativa Verde<p>
 - Spatial patterns in the Amazonian deforestation frontier (2012 - 2013) - WWF<p>
@@ -312,8 +321,9 @@ Main activities: <p>
 - Managed a dairy project (total amount invested 715,000.00 R$, team: 1 Veterinary, 1 agronomic engineer and 1 agricultural technician)<p>
 - Implemented a native bees and agroforest project<p>
 
-<h3>Courses</h3>
+<h3>Extra-Courses</h3>
 
+2013 - Software Carpentry bootcamp. Software Carpentry/Mozila Foundation, Toronto, ON, Canada.
 2007 - Produção em Sistemas Agroflorestais. (Carga horária: 32h), IPE - Instituto de Pesquisas Ecológicas<p>
 2002 - Extensão universitária em Methods & tools to model and predict species distribution - University of Kansas<p>
 2002 - Análise de dados de biodiversidade, Programa Biota/Fapesp<p>
@@ -331,6 +341,8 @@ Main activities: <p>
 1997 - Observação de aves, Centro de Estudos Ornitológicos<p>
 
 <h3>Volunteer experience</h3>
+
+- Founder and activist for the first semester of GIAIA - Grupo Independente de Avaliação de Impacto Ambiental (Mariana's mining disaster, 2015)
 
 - Vice-president of the International Association of Landscape Ecology - Brazilian Chapter (2010-Present)
 
@@ -352,7 +364,7 @@ GitHub <a href="https://github.com/alecamar"> alecamar</a>
 
 <a href="https://utoronto.academia.edu/AlexandreMartensen"> Academia </a>
 
-<a href="http://orcid.org/0000-0001-9017-7480"> orcid </a>
+<a href="http://orcid.org/0000-0001-9017-7480"> ORCID </a>
 
 <a href="http://scholar.google.ca/citations?user=akY5N4EAAAAJ&hl=en"> Google Scholar </a>
 
