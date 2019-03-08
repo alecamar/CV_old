@@ -227,8 +227,8 @@ Metzger, J.P.; Alves, L.; Pardini, R.; Dixo, M.O.; Nogueira, A.; Negrão, M.; **
 2010 - Higly Cited Author - Biological Conservation (2007-2010), Elsvier
 
 <h3>Selected international presentations</h3>
-2012 - 49th Annual Meeting of the Association of Tropical Biology and Conservation - "Methodological framework to optimize restoration efforts based on landscape connectivity and resilience" - Oral presentation<p>
-2009 - I Latin America International Association of Landscape Ecology - Atlantic Forest Conservation - Oral presentation<p>
+2012 - 49th Annual Meeting of the Association of Tropical Biology and Conservation - "Methodological framework to optimize restoration efforts based on landscape connectivity and resilience" - Oral presentation <p>
+2009 - I Latin America International Association of Landscape Ecology - Atlantic Forest Conservation - Oral presentation <p>
 2009 - I Latin America International Association of Landscape Ecology - Effects of habitat loss and fragmentation on birds - Oral presentation<p>
 2005 -  XIX Annual meeting of the Society for Conservation Biology - "Conservation of understory birds in the SE Atlantic rainforest, Brazil: corridor and fragment size effects" - Oral presentation<p>
 2003 - 7th Neotropical Ornithological Congress - "Bird species richness in tropical forest fragments with different sizes and connectivity" - Oral presentation (sponsor by FAPESP)<p>
@@ -237,6 +237,8 @@ Metzger, J.P.; Alves, L.; Pardini, R.; Dixo, M.O.; Nogueira, A.; Negrão, M.; **
 1998 - 13th Argentine mastzoology journey - "Preliminary results of hair morphology analysis of small mammals from the Brazilian cerrado (Brazilian savanna)"<p>
 
 <h3>Selected recent talks</h3>
+
+2018 - Perspectivas para a Conservação da Mata Atlântica Brasileira (Semana da Biologia, UFSCar LAgoa do Sino) <p>
 2010 - Forest Institute of São Paulo (IF/SMA/SP), Debate sobre as alterações no Código Florestal<p>
 2010 - Biota targets (FAPESP), Academia Brasileira de Ciências (ABC), Sociedade Brasileira para o Progresso da Ciência (SBPC) - "Atlantic Forest Conservation"<p> 
 2010 - Instituto de Biociências (USP), Debate sobre as alterações no Código Florestal<p>
@@ -254,7 +256,22 @@ Metzger, J.P.; Alves, L.; Pardini, R.; Dixo, M.O.; Nogueira, A.; Negrão, M.; **
 
 <br>
 <h3>Academic services</h3> <p>
-**Reviewer**: Nature Sustainability, Journal of Biogeography, Bird Conservation International, Biodiversity and Conservation, Biological Conservation, Biology Letters, Biota Neotropica, Ecological Indicators, Ecological Applications, Journal of Applied Ecology, Journal of Field Ornithology, Natureza e Conservação, Ecography, Plos One, Brazilian Journal of Ornithology (Ararajuba)
+- Reviewer:
+    - Journal of Biogeography 
+    - Nature Sustainability 
+    - Bird Conservation International
+    - Biodiversity and Conservation
+    - Biological Conservation
+    - Biology Letters
+    - Biota Neotropica
+    - Ecological Indicators
+    - Ecological Applications
+    - Journal of Applied Ecology
+    - Journal of Field Ornithology
+    - Natureza e Conservação
+    - Ecography
+    - Plos One
+    - Brazilian Journal of Ornithology (Ararajuba)
 
 - Vice-president of the International Association of Landscape Ecology, Brazilian Chapter (2010-Current)
 
