@@ -18,7 +18,7 @@ ___
 <h3>Employment</h3>
 2018-current: Assistant Professor, Nature Science Centre, Federal University of São Carlos, Lagoa do Sino <p>
 
-2017-2018: Posdoc at the Genetics, Conservation and Evolutive Biology Department at the National Institute for Amazonian Research (GCBEV/INPA)
+2017-2018: Posdoc at the Genetics, Conservation and Evolutionary Biology Department at the National Institute for Amazonian Research (GCBEV/INPA)
 
 <br>
 
@@ -35,40 +35,6 @@ ___
 2000-2001 	  Teacher diploma,	University of São Paulo,	Bioscience Institute.
 
 <br>
-
-<h3>Evaluation committee participation</h3>
-
-**Appraisals**
-
-MARTENSEN, A. C. 2018. Participação em banca de Fernando Montini. Seleção de locais prioritários para a restauração com vistas a ampliação da conectividade e a promoção de serviços ecossistêmicos. Exame de qualificação (Mestrando em Mestrado profissionalizante) - Escola Superior de Conservação Ambiental e Sustentabilidade.
-
-MARTENSEN, A. C. 2017. Participação em banca de Thays Jucá e Silva. Delimitando ignorância e ameaças: compreendendo o déficit Wallaceano em primatas Amazônicos e sua sobreposição com alto impacto antrópico. Exame de qualificação (Mestrando em Biologia (Ecologia)) - Instituto Nacional de Pesquisas da Amazônia.
-
-MARTENSEN, A. C. 2017. Participação em banca de Daniel Bastos Pimenta. Padrões de diversificação e estruturação populacional de aves especializadas em ambientes alagáveis da Amazônia. Exame de qualificação (Mestrando em Biologia (Ecologia)) - Instituto Nacional de Pesquisas da Amazônia.
-
-MARTENSEN, A. C. 2017. Participação em banca de Aline Pessutti Rampini. Uso do habitat por fêmeas de Corapipo gutturalis (Aves: Pipridae) na Amazônia Central. Exame de qualificação (Mestrando em Biologia (Ecologia)) - Instituto Nacional de Pesquisas da Amazônia.
-
-MARTENSEN, A. C. 2017. Participação em banca de Filipe Vieira Aramuni. Variações na exibição de corte entre machos dos Tangaras-deGarganta-branca (Corapipo gutturalis, Aves: Pripidae) em uma população da Amazônia Central. Exame de qualificação (Mestrando em Biologia (Ecologia)) - Instituto Nacional de Pesquisas da Amazônia.
-
-MARTENSEN, A. C. 2017. Participação em banca de Pilar Louisy Maia Braga. Assembleias de aves de sub-bosque das florestas de terra firme e sua relação com as áreas de endemismo da Amazônia. Exame de qualificação (Mestrando em Biologia (Ecologia) - Instituto Nacional de Pesquisas da Amazônia.
-
-MARTENSEN, A. C. 2017. Participação em banca de Aline Souza de Menezes Medeiro. Características da paisagem, variações na pluviosidade e o fluxo de veículos influenciam no número e distribuição de vertebrados atropelados em um trecho de estrada na Amazônia Central. Exame de qualificação (Mestrando em Biologia (Ecologia) - Instituto Nacional de Pesquisas da Amazônia.
-
-MARTENSEN, A. C. 2017. Participação em banca de Carolina Moreira Fernandes Ferreira. Diversificação da cor de plumagem em Lepidothrix coronata (Aves, Passeriformes): Uma abordagem filogenética e ambiental. Exame de qualificação (Mestrando em Genética, Conservação e Biologia Evolutiva) - Instituto Nacional de Pesquisas da Amazônia.
-
-**Undergraduate  dissertation**
-
-Tamires Aparecida Machado. Ocorrência de bromélias em fragmentos florestais. 2013. Trabalho de Conclusão de Curso (Graduação em Silvicultura) - Centro Estadual de Educação Tecnológica Paula Souza.
-
-**Masters  dissertation**
-
-Analuce de Araújo Abreu. Proposição de critérios para a avaliação de negócios que tem base na agricultura familiar e prerrogativas de responsabilidade socioambiental. 2018. Dissertação (Mestrado em Mestrado profissionalizante) - Escola Superior de Conservação Ambiental e Sustentabilidade.
-
-**PhD thesis**
-
-Anthony Santana Ferreira. *Allobates femoralis* como modelo para caracterizar clines geográficos nítidos na bacia Amazônica 2018. Tese (Doutorado em Biologia (Ecologia)) - Instituto Nacional de Pesquisas da Amazônia, Conselho Nacional de Desenvolvimento Científico e Tecnológico.
-
-Rafaela Guimarães Silva. Spatial strategies for Cerrado biome conservation: a multi-scale approach. 2019. Tese (Doutorado em Ecologia Aplicada) - Universidade Federal de Lavras.
 
 <h3>Publications</h3>
 
@@ -167,13 +133,48 @@ Metzger, J.P.; Alves, L.; Pardini, R.; Dixo, M.O.; Nogueira, A.; Negrão, M.; **
 <a href="http://www.biotaneotropica.org.br/v6n2/pt/abstract?article+bn01006022006">PDF</a> ISSN 1676-0603
 
 <br>
+<h3>Evaluation committee participation</h3>
+
+**Appraisals**
+
+Fernando Montini, participação em banca de qualificação, 2018. Seleção de locais prioritários para a restauração com vistas a ampliação da conectividade e a promoção de serviços ecossistêmicos. Exame de qualificação (Mestrando em Mestrado profissionalizante) - Escola Superior de Conservação Ambiental e Sustentabilidade.
+
+Thays Jucá e Silva, participação em banca de qualificação, 2017. Delimitando ignorância e ameaças: compreendendo o déficit Wallaceano em primatas Amazônicos e sua sobreposição com alto impacto antrópico. Exame de qualificação (Mestrando em Biologia (Ecologia)) - Instituto Nacional de Pesquisas da Amazônia.
+
+Daniel Bastos Pimenta, participação em banca de qualificação, 2017. Padrões de diversificação e estruturação populacional de aves especializadas em ambientes alagáveis da Amazônia. Exame de qualificação (Mestrando em Biologia (Ecologia)) - Instituto Nacional de Pesquisas da Amazônia.
+
+Aline Pessutti Rampini, participação em banca de qualificação, 2017. Uso do habitat por fêmeas de Corapipo gutturalis (Aves: Pipridae) na Amazônia Central. Exame de qualificação (Mestrando em Biologia (Ecologia)) - Instituto Nacional de Pesquisas da Amazônia.
+
+Filipe Vieira Aramuni,  participação em banca de qualificação, 2017. Variações na exibição de corte entre machos dos Tangaras-deGarganta-branca (Corapipo gutturalis, Aves: Pripidae) em uma população da Amazônia Central. Exame de qualificação (Mestrando em Biologia (Ecologia)) - Instituto Nacional de Pesquisas da Amazônia.
+
+Pilar Louisy Maia Braga,  participação em banca de qualificação, 2017. Assembleias de aves de sub-bosque das florestas de terra firme e sua relação com as áreas de endemismo da Amazônia. Exame de qualificação (Mestrando em Biologia (Ecologia) - Instituto Nacional de Pesquisas da Amazônia.
+
+Aline Souza de Menezes Medeiro, participação em banca de qualificação, 2017. Características da paisagem, variações na pluviosidade e o fluxo de veículos influenciam no número e distribuição de vertebrados atropelados em um trecho de estrada na Amazônia Central. Exame de qualificação (Mestrando em Biologia (Ecologia) - Instituto Nacional de Pesquisas da Amazônia.
+
+Carolina Moreira Fernandes Ferreira, participação em banca de qualificação, 2017. Diversificação da cor de plumagem em Lepidothrix coronata (Aves, Passeriformes): Uma abordagem filogenética e ambiental. Exame de qualificação (Mestrando em Genética, Conservação e Biologia Evolutiva) - Instituto Nacional de Pesquisas da Amazônia.
+
+**Undergraduate  dissertation**
+
+Tamires Aparecida Machado. Ocorrência de bromélias em fragmentos florestais. 2013. Trabalho de Conclusão de Curso (Graduação em Silvicultura) - Centro Estadual de Educação Tecnológica Paula Souza.
+
+**Masters  dissertation**
+
+Analuce de Araújo Abreu. Proposição de critérios para a avaliação de negócios que tem base na agricultura familiar e prerrogativas de responsabilidade socioambiental. 2018. Dissertação (Mestrado em Mestrado profissionalizante) - Escola Superior de Conservação Ambiental e Sustentabilidade.
+
+**PhD thesis**
+
+Anthony Santana Ferreira. *Allobates femoralis* como modelo para caracterizar clines geográficos nítidos na bacia Amazônica 2018. Tese (Doutorado em Biologia (Ecologia)) - Instituto Nacional de Pesquisas da Amazônia, Conselho Nacional de Desenvolvimento Científico e Tecnológico.
+
+Rafaela Guimarães Silva. Spatial strategies for Cerrado biome conservation: a multi-scale approach. 2019. Tese (Doutorado em Ecologia Aplicada) - Universidade Federal de Lavras.
+
 <h3>Teaching experience</h3>
 
 2018           - Landscape Ecology, graduate course of the Ecology and graduate course of Genetics, Conservation and Evolutive Biology of INPA (National Institute for Amazonian Research) <p>
-2018           - AD4 (Environmental monitoring), 4th year Environmental Engineering - UFSCar <p>
-2018           - CET3 (Geoprocessing), 3rd year Biological Science undergraduate - UFSCar <p>
-2018           - DTS3 (Environmental Legislation), 3rd year Biological Science undergraduate - UFSCar <p>
-2018           - EMA3 (Landscape Ecology and Ecological Restoration), 3rd year Biological Science undergraduate - UFSCar <p>
+2018           - Environmental monitoring (AD4), 4th year Environmental Engineering - UFSCar <p>
+2018           - Geoprocessing (CET3), 3rd year Biological Science undergraduate - UFSCar <p>
+2018           - Environmental Legislation (DTS3), 3rd year Biological Science undergraduate - UFSCar <p>
+2018           - Landscape Ecology (EMA3), 3rd year Biological Science undergraduate - UFSCar <p>
+2018           - Ecological Restoration (EMA3), 3rd year Biological Science undergraduate - UFSCar <p>
 2018           - Landscape Ecology, to the Secretary of Environment of the State of Minas Gerais <p> 
 2017           - Scientific communication, for the graduate course of the Genetics, Conservation and Evolutive Biology depto, of the National Institute for Amazonian Research (GCBEv/INPA)
 2016           - Applied Conservation Biology, Undergraduate Teaching Assistant, University of Toronto <p>
@@ -256,7 +257,7 @@ Metzger, J.P.; Alves, L.; Pardini, R.; Dixo, M.O.; Nogueira, A.; Negrão, M.; **
 
 <br>
 <h3>Academic services</h3> <p>
-- Reviewer:
+- Manuscript Reviewer:
     - Journal of Biogeography 
     - Nature Sustainability 
     - Bird Conservation International
@@ -272,6 +273,9 @@ Metzger, J.P.; Alves, L.; Pardini, R.; Dixo, M.O.; Nogueira, A.; Negrão, M.; **
     - Ecography
     - Plos One
     - Brazilian Journal of Ornithology (Ararajuba)
+    
+- Grant Reviewer:
+    - FAPESP
 
 - Vice-president of the International Association of Landscape Ecology, Brazilian Chapter (2010-Current)
 
