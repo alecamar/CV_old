@@ -1,7 +1,7 @@
 ---
 title: "My CV"
 author: "Alexandre Camargo Martensen"
-date: '2019-03-19 04:37:15'
+date: '2019-03-19 16:00:34'
 output: 
   html_document:
     keep_md: true
@@ -41,61 +41,64 @@ ___
 
 <br>
 
-<h3>Lifetime	Publication Summary</h3> (Google scholar	Mar 19 2019)
+<h3>Lifetime	Publication Summary</h3> (automatically retrieved from Google scholar on	Mar 19 2019)
 
 
 
-a) Citações 3880 (Google Scholar) 2019-03-19 04:37:19
-b) Publicações 39 
+a) Citações 3880
+b) Publicações 38 
 c) Artigos In Press 1
 d) Artigos em Revisão 3
 
 
 <h3>Publications</h3>
 
+
+
+
 **Accepted**
 
-Santos, P. *et. al.* Neotropical Xenarthrans: A dataset of occurrence of Xenarthran species in the Neotropics. *Ecology*
+Santos, P. *et. al.* Neotropical Xenarthrans: A dataset of occurrence of Xenarthran species in the Neotropics. *Ecology* IF=4.617
 
 **2019** <p>
 
-D'Aloia, C.C., Naujokaitis-Lewis, I., Blackford, C., Chu, C., Curtis, J.M.R., Darling, E., Guichard, F., Leroux, S.J.,, Martensen, A.C.,  Rayfield, B., Sunday, J.M., Xuereb, A. & Fortin, M.J. 2019. Coupled Networks of Permanent Protected Areas and Dynamic Conservation Areas for Biodiversity Conservation Under Climate Change. Pp 1-8. DOI: 10.3389/fevo.2019.00027
+D'Aloia, C.C., Naujokaitis-Lewis, I., Blackford, C., Chu, C., Curtis, J.M.R., Darling, E., Guichard, F., Leroux, S.J.,, Martensen, A.C.,  Rayfield, B., Sunday, J.M., Xuereb, A. & Fortin, M.J. 2019. Coupled Networks of Permanent Protected Areas and Dynamic Conservation Areas for Biodiversity Conservation Under Climate Change. Frontiers in Ecology and Evolution Pp 1-8. DOI: 10.3389/fevo.2019.00027
 
 **2018** <p>
 
-Giubbina, M.F., **MARTENSEN**, A.C., Ribeiro, M.C. 2018. Sugarcane and Eucalyptus plantation equally limit the movement of two forest-dependent understory bird species. Austral Ecology - DOI10.1111/aec.12589 
+Giubbina, M.F., **MARTENSEN**, A.C., Ribeiro, M.C. 2018. Sugarcane and Eucalyptus plantation equally limit the movement of two forest-dependent understory bird species. Austral Ecology - DOI10.1111/aec.12589 IF=1.73
 
-Hasui, É., J. P. Metzger, R. G. Pimentel, L. F. Silveira, A. A. d. A. Bovo, A. C. **MARTENSEN**, A. Uezu, A. L. Regolin, A. Â. Bispo de Oliveira, C. A. F. R. Gatto, C. Duca, C. B. Andretti, C. Banks-Leite, D. Luz, D. Mariz, E. R. Alexandrino, F. M. de Barros, F. Martello, I. M. d. S. Pereira, J. N. da Silva, K. M. P. M. d. B. Ferraz, L. N. Naka, L. dos Anjos, M. A. Efe, M. A. Pizo, M. Pichorim, M. S. S. Gonçalves, P. H. C. Cordeiro, R. A. Dias, R. d. L. Muylaert, R. C. Rodrigues, T. V. V. da Costa, V. Cavarzere, V. R. Tonetti, W. R. Silva, C. N. Jenkins, M. Galetti, and M. C. Ribeiro. 2018. ATLANTIC BIRDS: a data set of bird species from the Brazilian Atlantic Forest. Ecology V. 99, p. 497. DOI: 10.1002/ecy.2119
+Hasui, É., J. P. Metzger, R. G. Pimentel, L. F. Silveira, A. A. d. A. Bovo, A. C. **MARTENSEN**, A. Uezu, A. L. Regolin, A. Â. Bispo de Oliveira, C. A. F. R. Gatto, C. Duca, C. B. Andretti, C. Banks-Leite, D. Luz, D. Mariz, E. R. Alexandrino, F. M. de Barros, F. Martello, I. M. d. S. Pereira, J. N. da Silva, K. M. P. M. d. B. Ferraz, L. N. Naka, L. dos Anjos, M. A. Efe, M. A. Pizo, M. Pichorim, M. S. S. Gonçalves, P. H. C. Cordeiro, R. A. Dias, R. d. L. Muylaert, R. C. Rodrigues, T. V. V. da Costa, V. Cavarzere, V. R. Tonetti, W. R. Silva, C. N. Jenkins, M. Galetti, and M. C. Ribeiro. 2018. ATLANTIC BIRDS: a data set of bird species from the Brazilian Atlantic Forest. Ecology V. 99, p. 497. DOI: 10.1002/ecy.2119 IF=4.617
 
 **2017** <p>
 
-Lima, F., G. Beca, R. L. Muylaert, C. N. Jenkins, M. L. L. Perilli, A. M. O. Paschoal, R. L. Massara, A. P. Paglia, A. G. Chiarello, M. E. Graipel, J. J. Cherem, A. L. Regolin, L. G. R. Oliveira Santos, C. R. Brocardo, A. Paviolo, M. S. Di Bitetti, L. M. Scoss, F. L. Rocha, R. Fusco-Costa, C. A. Rosa, M. X. Da Silva, L. Hufnagell, P. M. Santos, G. T. Duarte, L. N. Guimarães, L. L. Bailey, F. H. G. Rodrigues, H. M. Cunha, F. M. Fantacini, G. O. Batista, J. A. Bogoni, M. A. Tortato, M. R. Luiz, N. Peroni, P. V. De Castilho, T. B. Maccarini, V. P. Filho, C. D. Angelo, P. Cruz, V. Quiroga, M. E. Iezzi, D. Varela, S. M. C. Cavalcanti, A. C. **MARTENSEN**, E. V. Maggiorini, F. F. Keesen, A. V. Nunes, G. M. Lessa, P. Cordeiro-Estrela, M. G. Beltrão, A. C. F. De Albuquerque, B. Ingberman, C. R. Cassano, L. C. Junior, M. C. Ribeiro, and M. Galetti. 2017. ATLANTIC-CAMTRAPS: a dataset of medium and large terrestrial mammal communities in the Atlantic Forest of South America. Ecology v. 98, p. 2979. DOI: 10.1002/ecy.1998
+Lima, F., G. Beca, R. L. Muylaert, C. N. Jenkins, M. L. L. Perilli, A. M. O. Paschoal, R. L. Massara, A. P. Paglia, A. G. Chiarello, M. E. Graipel, J. J. Cherem, A. L. Regolin, L. G. R. Oliveira Santos, C. R. Brocardo, A. Paviolo, M. S. Di Bitetti, L. M. Scoss, F. L. Rocha, R. Fusco-Costa, C. A. Rosa, M. X. Da Silva, L. Hufnagell, P. M. Santos, G. T. Duarte, L. N. Guimarães, L. L. Bailey, F. H. G. Rodrigues, H. M. Cunha, F. M. Fantacini, G. O. Batista, J. A. Bogoni, M. A. Tortato, M. R. Luiz, N. Peroni, P. V. De Castilho, T. B. Maccarini, V. P. Filho, C. D. Angelo, P. Cruz, V. Quiroga, M. E. Iezzi, D. Varela, S. M. C. Cavalcanti, A. C. **MARTENSEN**, E. V. Maggiorini, F. F. Keesen, A. V. Nunes, G. M. Lessa, P. Cordeiro-Estrela, M. G. Beltrão, A. C. F. De Albuquerque, B. Ingberman, C. R. Cassano, L. C. Junior, M. C. Ribeiro, and M. Galetti. 2017. ATLANTIC-CAMTRAPS: a dataset of medium and large terrestrial mammal communities in the Atlantic Forest of South America. Ecology v. 98, p. 2979. DOI: 10.1002/ecy.1998 IF=4.617
 
-**MARTENSEN**, A. C., S. Saura, and M.-J. Fortin. 2017. Spatio-temporal connectivity: assessing the amount of reachable habitat in dynamic landscapes. Methods in Ecology and Evolution 8:1253-1264. doi: 10.1111/2041-210X.12799 PDF
+**MARTENSEN**, A. C., S. Saura, and M.-J. Fortin. 2017. Spatio-temporal connectivity: assessing the amount of reachable habitat in dynamic landscapes. Methods in Ecology and Evolution 8:1253-1264. doi: 10.1111/2041-210X.12799 PDF IF=6.363
 
 Braga, A.C.R. & **MARTENSEN**, A.C. 2017. Smallholders: Drivers or targets of Amazonian deforestation? Human Geography 10(1): 67-69 PDF 
 
 **2015** <p>
 
-Banks-Leite, C.; Pardini, R.; Tambosi, L.R.; Pearse, W.D.; Bueno, A.A.; Bruscagin, R.T.; Condez, T.H.; Dixo, M.; Igari, A.; **MARTENSEN**, A.C., Metzger, J.P. 2015. Response to Comment on "Using ecological thresholds to evaluate the costs and benefits of set-asides in a biodiversity hotspot". Science 347(6223), pp 731.
+Banks-Leite, C.; Pardini, R.; Tambosi, L.R.; Pearse, W.D.; Bueno, A.A.; Bruscagin, R.T.; Condez, T.H.; Dixo, M.; Igari, A.; **MARTENSEN**, A.C., Metzger, J.P. 2015. Response to Comment on "Using ecological thresholds to evaluate the costs and benefits of set-asides in a biodiversity hotspot". Science 347(6223), pp 731. IF=41.058
 
 **2014** <p>
 
-Pütz, S.; Groeneveld, J.; Henle, K.; Knogge, C.; **MARTENSEN**, A.C., Metz, M.; Metzger, J.P.; Ribeiro, M.C.; Paula, M. D. de & Huth, A. 2014. Long-term carbon loss in fragmented Neotropical forests. Nature Communications 5:5037. (2014). DOI:10.1038/ncomms6037 *Journal's Featured Picture of the Week*
+Pütz, S.; Groeneveld, J.; Henle, K.; Knogge, C.; **MARTENSEN**, A.C., Metz, M.; Metzger, J.P.; Ribeiro, M.C.; Paula, M. D. de & Huth, A. 2014. Long-term carbon loss in fragmented Neotropical forests. Nature Communications 5:5037. (2014). DOI:10.1038/ncomms6037 *Journal's Featured Picture of the Week* IF=12.353
 
 *Media coverage*:<br>
 International: Science daily, Daily News en , Eurekalert , azocleantech , Nature World News , Planet Experts, DAAD Vbio (german), TV 21 (german), Ad Hoc News (german), Scinexx (german), Innovations report (german)<br>
 Brazilian: Jornal Estado de São Paulo, Jornal Folha de São Paulo, Portal UNESP, Madeira Total, Fundacao Getulio Vargas, O Eco
 
-Banks-Leite, C.; Pardini, R.; Tambosi, L.R.; Pearse, W.D.; Bueno, A.A.; Bruscagin, R.T.; Condez, T.H.; Dixo, M.; Igari, A.; **MARTENSEN**, A.C., Metzger, J.P. 2014. Using ecological thresholds to cost set-asides in a biodiversity hotspot. Science 345, no. 6200, pp: 1041-1045. DOI:10.1126/science.1255768
+Banks-Leite, C.; Pardini, R.; Tambosi, L.R.; Pearse, W.D.; Bueno, A.A.; Bruscagin, R.T.; Condez, T.H.; Dixo, M.; Igari, A.; **MARTENSEN**, A.C., Metzger, J.P. 2014. Using ecological thresholds to cost set-asides in a biodiversity hotspot. Science 345, no. 6200, pp: 1041-1045. DOI:10.1126/science.1255768 IF=41.058
 
 *Media coverage:*<br>
 International: Science Magazine News, Mongabay, Conservation magazine, Science Daily, Science News line, Phys.org<br>
 Brazilian: Reporter Eco (TV), Jornal Estado de São Paulo, Jornal Folha de São Paulo, Eco Debate, SOS Mata Atlântica, Frente Parlamentar Ambientalista, Revista Fapesp, UOL
 
-Banks-Leite, C.; Pardini, R.; Tambosi, L.R.; Pearse, W.D.; Bueno, A.A.; Bruscagin, R.T.; Condez, T.H.; Dixo, M.; Igari, A.; **MARTENSEN**, A.C., Metzger, J.P. 2014. Conserving Brazil's Atlantic forests-response. Science 346(6214), pp 1193.
+Banks-Leite, C.; Pardini, R.; Tambosi, L.R.; Pearse, W.D.; Bueno, A.A.; Bruscagin, R.T.; Condez, T.H.; Dixo, M.; Igari, A.; **MARTENSEN**, A.C., Metzger, J.P. 2014. Conserving Brazil's Atlantic forests-response. Science 346(6214), pp 1193. IF=41.058
 
-Tambosi, L.R.; **MARTENSEN**, A.C. ; Ribeiro, M.C.; Metzger, J.P. 2014. A framework to optimize biodiversity restoration efforts based on habitat amount and landscape connectivity. Restoration Ecology (22)2: 169-177 169
+Tambosi, L.R.; **MARTENSEN**, A.C. ; Ribeiro, M.C.; Metzger, J.P. 2014. A framework to optimize biodiversity restoration efforts based on habitat amount and landscape connectivity. Restoration Ecology (22)2: 169-177 169 IF=2.544
 
 **2013** <p>
 
@@ -107,11 +110,11 @@ Tambosi, L.R.; **MARTENSEN**, A.C. ; Ribeiro, M.C.; Metzger, J.P.. 2013. Identif
 
 **2012** <p>
 
-**MARTENSEN**, A.C.; Ribeiro, M.C.; Banks-Leite, C.; Prado, P.I.; Metzger, J.P. 2012. Associations of Forest Cover, Fragment Area, and Connectivity with Neotropical Understory Bird Species Richness and Abundance. Conservation Biology, 26(6): 1100-1111. DOI:10.1111/j.1523-1739.2012.01940.x
+**MARTENSEN**, A.C.; Ribeiro, M.C.; Banks-Leite, C.; Prado, P.I.; Metzger, J.P. 2012. Associations of Forest Cover, Fragment Area, and Connectivity with Neotropical Understory Bird Species Richness and Abundance. Conservation Biology, 26(6): 1100-1111. DOI:10.1111/j.1523-1739.2012.01940.x IF=5.89
 
 **2011** <p>
 
-Banks-Leite, C; Ewers, R.M.; Kapos, V.; **MARTENSEN**, A.C. ; Metzger, J.P. 2011. Comparing species and measures of landscape structure as indicators of conservation importance. Journal of Applied Ecology v. 48, p. 706-714. DOI:10.1111/j.1365-2664.2011.01966.x
+Banks-Leite, C; Ewers, R.M.; Kapos, V.; **MARTENSEN**, A.C. ; Metzger, J.P. 2011. Comparing species and measures of landscape structure as indicators of conservation importance. Journal of Applied Ecology v. 48, p. 706-714. DOI:10.1111/j.1365-2664.2011.01966.x IF=5.742
 
 Boscolo, D. & **MARTENSEN**, A.C. 2011. Alterações no Código Florestal afetam todos os brasileiros. Ciência Hoje, v. 48, p. 74-75. *This article was used as an educational tool in high schools by the Secretary of Education from Rio the Janeiro*
 
@@ -123,15 +126,15 @@ Metzger, J.P.; Ribeiro, M.C.; **MARTENSEN**, A.C. 2010. Paisagens Atlânticas Br
 
 **2009** <p>
 
-Ribeiro, M.C.; Metzger, J.P.; **MARTENSEN**, A.C.; Ponzoni, F.J.; Hirota, M.M. 2009. The Brazilian Atlantic Forest: How much is left, and how is the remaining forest distributed? Implications for conservation. Biological Conservation, v. 142, p. 1141-1153. doi:10.1016/j.biocon.2009.02.021
+Ribeiro, M.C.; Metzger, J.P.; **MARTENSEN**, A.C.; Ponzoni, F.J.; Hirota, M.M. 2009. The Brazilian Atlantic Forest: How much is left, and how is the remaining forest distributed? Implications for conservation. Biological Conservation, v. 142, p. 1141-1153. doi:10.1016/j.biocon.2009.02.021 IF=4.66
 
 *Media coverage*: Jornal Folha de São Paulo, Eco Debate, O Eco, Amazonarium, OPA
 
-Metzger, J.P.; **MARTENSEN**, A.C.; Dixo, M.; Bernacci, L.C.; Ribeiro, M.C.; Teixeira, A.M.G.; Pardini, R. 2009. Time-lag in biological responses to landscape changes in a highly dynamic Atlantic forest region. Biological Conservation, v. 142, p. 1166-1177. DOI:10.1016/j.biocon.2009.01.033
+Metzger, J.P.; **MARTENSEN**, A.C.; Dixo, M.; Bernacci, L.C.; Ribeiro, M.C.; Teixeira, A.M.G.; Pardini, R. 2009. Time-lag in biological responses to landscape changes in a highly dynamic Atlantic forest region. Biological Conservation, v. 142, p. 1166-1177. DOI:10.1016/j.biocon.2009.01.033 IF=4.66
 
 **2008** <p>
 
-**MARTENSEN**, A.C.; Pimentel, R.G.; Metzger, J.P. 2008. Relative effects of fragment size and connectivity on bird community in the Atlantic Rain Forest: Implications for conservation. Biological Conservation, v. 141, p. 2184-2192. DOI:10.1016/j.biocon.2008.06.008
+**MARTENSEN**, A.C.; Pimentel, R.G.; Metzger, J.P. 2008. Relative effects of fragment size and connectivity on bird community in the Atlantic Rain Forest: Implications for conservation. Biological Conservation, v. 141, p. 2184-2192. DOI:10.1016/j.biocon.2008.06.008 IF=4.66
 
 **MARTENSEN**, A.C.2008. Conservação de aves de sub-bosque em paisagens fragmentadas: Importância da cobertura e da configuração do hábitat. Master's Dissertation, Instituto de Biociências, University of São Paulo, São Paulo.<a href="http://www.teses.usp.br/teses/disponiveis/41/41134/tde-26092008-133514/publico/Martensen.pdf">PDF</a>
 
@@ -142,9 +145,9 @@ Metzger, J.P.; Fonseca, M.; Oliveira-Filho, F.; **MARTENSEN**, A.C. 2007. O uso 
 **2006** <p>
 
 Develey, P.F.; **MARTENSEN**, A.C. 2006. Birds of Morro Grande Reserve. Biota Neotropica (Ed. Portuguesa), v. 06(2)
-<a href="http://www.scielo.br/pdf/bn/v6n2/v6n2a07.pdf">PDF</a>
+<a href="http://www.scielo.br/pdf/bn/v6n2/v6n2a07.pdf">PDF</a> IF=0.842
 
-Metzger, J.P.; Alves, L.; Pardini, R.; Dixo, M.O.; Nogueira, A.; Negrão, M.; **MARTENSEN**, A.C.; Catharino, L. 2006. Características ecológicas e implicações para a conservação da Reserva Florestal do Morro Grande. BiotaNeotropica, v. 06 (2), p. 01-13.
+Metzger, J.P.; Alves, L.; Pardini, R.; Dixo, M.O.; Nogueira, A.; Negrão, M.; **MARTENSEN**, A.C.; Catharino, L. 2006. Características ecológicas e implicações para a conservação da Reserva Florestal do Morro Grande. BiotaNeotropica, v. 06 (2), p. 01-13. IF=0.842
 <a href="http://www.biotaneotropica.org.br/v6n2/pt/abstract?article+bn01006022006">PDF</a> ISSN 1676-0603
 
 <br>
