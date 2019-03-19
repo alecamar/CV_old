@@ -1,11 +1,16 @@
 ---
 title: "My CV"
 author: "Alexandre Camargo Martensen"
-date: "February 26, 2016"
+date: '2019-03-19 04:37:15'
 output: 
   html_document:
     keep_md: true
 ---
+
+
+```
+## Warning: package 'scholar' was built under R version 3.5.3
+```
 
 <h3><center>Alexandre Camargo Martensen</center></h3>
 
@@ -35,6 +40,16 @@ ___
 2000-2001 	  Teacher diploma,	University of São Paulo,	Bioscience Institute.
 
 <br>
+
+<h3>Lifetime	Publication Summary</h3> (Google scholar	Mar 19 2019)
+
+
+
+a) Citações 3880 (Google Scholar) 2019-03-19 04:37:19
+b) Publicações 39 
+c) Artigos In Press 1
+d) Artigos em Revisão 3
+
 
 <h3>Publications</h3>
 
