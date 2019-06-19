@@ -38,11 +38,9 @@ ___
 
 <h3>Publications</h3>
 
-**Accepted**
-
-Santos, P. *et. al.* Neotropical Xenarthrans: A dataset of occurrence of Xenarthran species in the Neotropics. *Ecology*
-
 **2019** <p>
+
+Santos, et al. Neotropical Xenarthrans: A dataset of occurrence of Xenarthran species in the Neotropics. Ecology, https://doi.org/10.1002/ecy.2663
 
 D'Aloia, C.C., Naujokaitis-Lewis, I., Blackford, C., Chu, C., Curtis, J.M.R., Darling, E., Guichard, F., Leroux, S.J.,, Martensen, A.C.,  Rayfield, B., Sunday, J.M., Xuereb, A. & Fortin, M.J. 2019. Coupled Networks of Permanent Protected Areas and Dynamic Conservation Areas for Biodiversity Conservation Under Climate Change. Pp 1-8. DOI: 10.3389/fevo.2019.00027
 
@@ -159,6 +157,8 @@ Tamires Aparecida Machado. Ocorrência de bromélias em fragmentos florestais. 2
 
 **Masters  dissertation**
 
+Marina Pannunzio Ribeiro. Avaliação da conectividade florestal em paisagem urbana. 2019. Dissertação Mestrado - PPGPUR - UFSCar - Sorocaba.
+
 Analuce de Araújo Abreu. Proposição de critérios para a avaliação de negócios que tem base na agricultura familiar e prerrogativas de responsabilidade socioambiental. 2018. Dissertação (Mestrado em Mestrado profissionalizante) - Escola Superior de Conservação Ambiental e Sustentabilidade.
 
 **PhD thesis**
@@ -216,6 +216,10 @@ Rafaela Guimarães Silva. Spatial strategies for Cerrado biome conservation: a m
 
 <br>
 <h3>Awards</h3>
+
+2019 - Best student presentation of the Conference - Bharguan Pizzol & Alexandre Camargo Martensen - "Biodiversidade e Funcionamento dos Ecossistemas: Aplicações para Bacia do Alto Paranapanema" - IIII Forum de Desenvolvimento Regional do Sudoeste Paulista e I Workshop do Centro de Desenvolvimento Regional do Sudoeste Paulista
+
+2019 - Best student presentation of the Natural Resource section - Bharguan Pizzol & Alexandre Camargo Martensen - "Biodiversidade e Funcionamento dos Ecossistemas: Aplicações para Bacia do Alto Paranapanema" - IIII Forum de Desenvolvimento Regional do Sudoeste Paulista e I Workshop do Centro de Desenvolvimento Regional do Sudoeste Paulista
 
 2011 - Most Cited Author - Biological Conservation (2008-2011), Elsvier
 
