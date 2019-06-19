@@ -1,7 +1,7 @@
 ---
 title: "My CV"
 author: "Alexandre Camargo Martensen"
-date: '2019-03-19 16:00:34'
+date: '2019-06-18 23:28:49'
 output: 
   html_document:
     keep_md: true
@@ -9,7 +9,9 @@ output:
 
 
 ```
-## Warning: package 'scholar' was built under R version 3.5.3
+## Registered S3 method overwritten by 'R.oo':
+##   method        from       
+##   throw.default R.methodsS3
 ```
 
 <h3><center>Alexandre Camargo Martensen</center></h3>
@@ -41,12 +43,12 @@ ___
 
 <br>
 
-<h3>Lifetime	Publication Summary</h3> (automatically retrieved from Google scholar on	Mar 19 2019)
+<h3>Lifetime	Publication Summary</h3> (automatically retrieved from Google scholar on	Jun 18 2019)
 
 
 
-a) Citações 3880
-b) Publicações 38 
+a) Citações 4487
+b) Publicações 39 
 c) Artigos In Press 1
 d) Artigos em Revisão 3
 
@@ -56,11 +58,9 @@ d) Artigos em Revisão 3
 
 
 
-**Accepted**
-
-Santos, P. *et. al.* Neotropical Xenarthrans: A dataset of occurrence of Xenarthran species in the Neotropics. *Ecology* IF=4.617
-
 **2019** <p>
+
+Santos, et al. Neotropical Xenarthrans: A dataset of occurrence of Xenarthran species in the Neotropics. Ecology, https://doi.org/10.1002/ecy.2663 IF=4.617
 
 D'Aloia, C.C., Naujokaitis-Lewis, I., Blackford, C., Chu, C., Curtis, J.M.R., Darling, E., Guichard, F., Leroux, S.J.,, Martensen, A.C.,  Rayfield, B., Sunday, J.M., Xuereb, A. & Fortin, M.J. 2019. Coupled Networks of Permanent Protected Areas and Dynamic Conservation Areas for Biodiversity Conservation Under Climate Change. Frontiers in Ecology and Evolution Pp 1-8. DOI: 10.3389/fevo.2019.00027
 
@@ -177,6 +177,8 @@ Tamires Aparecida Machado. Ocorrência de bromélias em fragmentos florestais. 2
 
 **Masters  dissertation**
 
+Marina Pannunzio Ribeiro. Avaliação da conectividade florestal em paisagem urbana. 2019. Dissertação Mestrado - PPGPUR - UFSCar - Sorocaba.
+
 Analuce de Araújo Abreu. Proposição de critérios para a avaliação de negócios que tem base na agricultura familiar e prerrogativas de responsabilidade socioambiental. 2018. Dissertação (Mestrado em Mestrado profissionalizante) - Escola Superior de Conservação Ambiental e Sustentabilidade.
 
 **PhD thesis**
@@ -187,6 +189,8 @@ Rafaela Guimarães Silva. Spatial strategies for Cerrado biome conservation: a m
 
 <h3>Teaching experience</h3>
 
+2018           - Environmental legislation, 5th year Agronomic Engineering - UFSCar <p>
+2018           - Restoration Ecology, 5th year  Agronomic Engineering - UFSCar <p>
 2018           - Landscape Ecology, graduate course of the Ecology and graduate course of Genetics, Conservation and Evolutive Biology of INPA (National Institute for Amazonian Research) <p>
 2018           - Environmental monitoring (AD4), 4th year Environmental Engineering - UFSCar <p>
 2018           - Geoprocessing (CET3), 3rd year Biological Science undergraduate - UFSCar <p>
@@ -235,6 +239,10 @@ Rafaela Guimarães Silva. Spatial strategies for Cerrado biome conservation: a m
 <br>
 <h3>Awards</h3>
 
+2019 - Best student presentation of the Conference - Bharguan Pizzol & Alexandre Camargo Martensen - "Biodiversidade e Funcionamento dos Ecossistemas: Aplicações para Bacia do Alto Paranapanema" - IIII Forum de Desenvolvimento Regional do Sudoeste Paulista e I Workshop do Centro de Desenvolvimento Regional do Sudoeste Paulista
+
+2019 - Best student presentation of the Natural Resource section - Bharguan Pizzol & Alexandre Camargo Martensen - "Biodiversidade e Funcionamento dos Ecossistemas: Aplicações para Bacia do Alto Paranapanema" - IIII Forum de Desenvolvimento Regional do Sudoeste Paulista e I Workshop do Centro de Desenvolvimento Regional do Sudoeste Paulista
+
 2011 - Most Cited Author - Biological Conservation (2008-2011), Elsvier
 
 2011 - Higly Cited Author - Biological Conservation (2008-2011), Elsvier
@@ -246,6 +254,7 @@ Rafaela Guimarães Silva. Spatial strategies for Cerrado biome conservation: a m
 2010 - Higly Cited Author - Biological Conservation (2007-2010), Elsvier
 
 <h3>Selected international presentations</h3>
+
 2012 - 49th Annual Meeting of the Association of Tropical Biology and Conservation - "Methodological framework to optimize restoration efforts based on landscape connectivity and resilience" - Oral presentation <p>
 2009 - I Latin America International Association of Landscape Ecology - Atlantic Forest Conservation - Oral presentation <p>
 2009 - I Latin America International Association of Landscape Ecology - Effects of habitat loss and fragmentation on birds - Oral presentation<p>
@@ -303,6 +312,7 @@ Rafaela Guimarães Silva. Spatial strategies for Cerrado biome conservation: a m
 
 <br>
 <h3>Other academic experiences</h3>
+
 2005 - Exchange student - Department of Conservation Biology / Centre for Environmental Research, (Leipzig - Germany) (sponsor by CNPq)<p>
 2005 - Exchange student - Department of Wildlife Ecology and Wildlife Management / University of Freiburg, (Freiburg - Germany) (sponsor by CNPq)<p>
 2003-2004 - Responsible for the technical project: "Impacts of forest fragmentation on bird community in the Atlantic Rainforest: relative importance of fragment size and connectivity" (DTI/CNPq)<p>
@@ -320,6 +330,9 @@ II Brazilian Conference of Landscape Ecology, Salvador, Bahia, Brazil.
 
 <br>
 <h3>Professional Experience</h3>
+
+**Adjunt Professor I -  UFSCar(2018-Current)**
+
 
 **Director of Taki Ambiental (2007-2018)** Main projects:<p>
 - Site Prioritization for Atlantic Forest Conservation (IPÊ/MMA, 2017-2018)
