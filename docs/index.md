@@ -203,6 +203,8 @@ Rafaela Guimarães Silva. Spatial strategies for Cerrado biome conservation: a m
 <br>
 <h3>Grants and Funding</h3>
 
+- Young Research Award; International Colaboration FAPESP/NWO (The Netherlands) - 2019-2023<p>
+
 - Connaught International Scholarships for Doctoral Students (2012-2016, CAD$150,000)<p>
 
 - Desenvolvimento Tecnológico e Industrial (CNPq, 2007-2008) <p>
@@ -220,9 +222,9 @@ Rafaela Guimarães Silva. Spatial strategies for Cerrado biome conservation: a m
 <br>
 <h3>Awards</h3>
 
-2019 - Best student presentation of the Conference - Bharguan Pizzol & Alexandre Camargo Martensen - "Biodiversidade e Funcionamento dos Ecossistemas: Aplicações para Bacia do Alto Paranapanema" - IIII Forum de Desenvolvimento Regional do Sudoeste Paulista e I Workshop do Centro de Desenvolvimento Regional do Sudoeste Paulista
+2019 - Best student presentation of the Conference - Bharguan Pizzol & Alexandre Camargo Martensen - "Biodiversidade e Funcionamento dos Ecossistemas: Aplicações para Bacia do Alto Paranapanema" - III Forum de Desenvolvimento Regional do Sudoeste Paulista e I Workshop do Centro de Desenvolvimento Regional do Sudoeste Paulista
 
-2019 - Best student presentation of the Natural Resource section - Bharguan Pizzol & Alexandre Camargo Martensen - "Biodiversidade e Funcionamento dos Ecossistemas: Aplicações para Bacia do Alto Paranapanema" - IIII Forum de Desenvolvimento Regional do Sudoeste Paulista e I Workshop do Centro de Desenvolvimento Regional do Sudoeste Paulista
+2019 - Best student presentation of the Natural Resource section - Bharguan Pizzol & Alexandre Camargo Martensen - "Biodiversidade e Funcionamento dos Ecossistemas: Aplicações para Bacia do Alto Paranapanema" - III Forum de Desenvolvimento Regional do Sudoeste Paulista e I Workshop do Centro de Desenvolvimento Regional do Sudoeste Paulista
 
 2011 - Most Cited Author - Biological Conservation (2008-2011), Elsvier
 
@@ -282,7 +284,8 @@ Rafaela Guimarães Silva. Spatial strategies for Cerrado biome conservation: a m
     - Brazilian Journal of Ornithology (Ararajuba)
     
 - Grant Reviewer:
-    - FAPESP
+
+- FAPESP
 
 - Vice-president of the International Association of Landscape Ecology, Brazilian Chapter (2010-Current)
 
@@ -299,7 +302,10 @@ Rafaela Guimarães Silva. Spatial strategies for Cerrado biome conservation: a m
 
 <br>
 <h3>Conference organization</h3>
-II Brazilian Conference of Landscape Ecology, Salvador, Bahia, Brazil.
+
+III Forum de Desenvolvimento Regional do Sudoeste Paulista e I Workshop do Centro de Desenvolvimento Regional do Sudoeste Paulista
+
+II Brazilian Conference of Landscape Ecology, Salvador, Bahia, Brazil (2012)
 
 <br>
 <h3>Languages</h3>
@@ -309,6 +315,28 @@ II Brazilian Conference of Landscape Ecology, Salvador, Bahia, Brazil.
 
 <br>
 <h3>Professional Experience</h3>
+
+**Assistant Professor, Nature Science Centre, Federal University of São Carlos, Lagoa do Sino (2018-current)** <p>
+*Teaching - undergraduate*<p>
+- Environmental monitoring (AD4), 4th year Environmental Engineering - UFSCar <p>
+- Geoprocessing (CET3), 3rd year Biological Science undergraduate - UFSCar <p>
+- Environmental Legislation (DTS3), 3rd year Biological Science undergraduate - UFSCar <p>
+- Landscape Ecology (EMA3), 3rd year Biological Science undergraduate - UFSCar <p>
+- Ecological Restoration (EMA3), 3rd year Biological Science undergraduate - UFSCar <p>
+- Ecological Restoration (RN5), 5th year Agronomic Engineer undergraduate - UFSCar <p>
+- Environmental Legislation (RN5), 5th year Agronomic Engineer undergraduate - UFSCar <p>
+
+*Teaching - graduate*
+- Landscape Ecology (at INPA, GCBEv and Ecology Departments)
+- Scientific Communication (at INPA GCBEv)
+
+*Academic administration duties*
+- Counselor of the Biological Science course
+- Counselor of the Evalutaion Biological Science course (Núcleo Docente Estruturante)
+
+*Extension*
+- Coordinator of the NEEDS (Núcleo de Estudos em Ecologia Espacial e Desenvolvimento Sustentável), Spatial ecology and sustainable development group
+
 
 **Director of Taki Ambiental (2007-2018)** Main projects:<p>
 - Site Prioritization for Atlantic Forest Conservation (IPÊ/MMA, 2017-2018)
@@ -351,7 +379,7 @@ Main activities: <p>
 
 <h3>Extra-Courses</h3>
 
-2013 - Software Carpentry bootcamp. Software Carpentry/Mozila Foundation, Toronto, ON, Canada.
+2013 - Software Carpentry bootcamp. Software Carpentry/Mozila Foundation, Toronto, ON, Canada<p>
 2007 - Produção em Sistemas Agroflorestais. (Carga horária: 32h), IPE - Instituto de Pesquisas Ecológicas<p>
 2002 - Extensão universitária em Methods & tools to model and predict species distribution - University of Kansas<p>
 2002 - Análise de dados de biodiversidade, Programa Biota/Fapesp<p>
