@@ -1,7 +1,7 @@
 ---
 title: "My CV"
 author: "Alexandre Camargo Martensen"
-date: "6/19/2019"
+date: "2019-06-19 11:39:00"
 output: 
   html_document:
     keep_md: true
