@@ -19,6 +19,8 @@ ___
 
 2017-2018: Posdoc at the Genetics, Conservation and Evolutionary Biology Department at the National Institute for Amazonian Research (GCBEV/INPA)
 
+2012: Substitute professor at UNESP Rio Claro (Ecology)
+
 2007-2018: Director Taki Ambiental
 
 2009-2010: Secretary of Agriculture, Environment, Tourism and Sports of Guapiara
