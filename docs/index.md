@@ -285,9 +285,8 @@ Rafaela Guimarães Silva. Spatial strategies for Cerrado biome conservation: a m
     - Plos One
     - Brazilian Journal of Ornithology (Ararajuba)
     
-- Grant Reviewer:
-
-- FAPESP
+- Grant Reviewer: 
+      - FAPESP
 
 - Vice-president of the International Association of Landscape Ecology, Brazilian Chapter (2010-Current)
 
@@ -305,7 +304,7 @@ Rafaela Guimarães Silva. Spatial strategies for Cerrado biome conservation: a m
 <br>
 <h3>Conference organization</h3>
 
-III Forum de Desenvolvimento Regional do Sudoeste Paulista e I Workshop do Centro de Desenvolvimento Regional do Sudoeste Paulista
+III Forum de Desenvolvimento Regional do Sudoeste Paulista e I Workshop do Centro de Desenvolvimento Regional do Sudoeste Paulista (2019)
 
 II Brazilian Conference of Landscape Ecology, Salvador, Bahia, Brazil (2012)
 
@@ -338,6 +337,9 @@ II Brazilian Conference of Landscape Ecology, Salvador, Bahia, Brazil (2012)
 
 *Extension*
 - Coordinator of the NEEDS (Núcleo de Estudos em Ecologia Espacial e Desenvolvimento Sustentável), Spatial ecology and sustainable development group
+
+*Projects*
+- Coordinator of the International Colaboration Project (FAPESP/NWO - The Netherlands), "Governing the Atlantic Forest transition: Improving our knowledge on forest recovery for ecosystem services"
 
 
 **Director of Taki Ambiental (2007-2018)** Main projects:<p>
@@ -425,3 +427,5 @@ GitHub <a href="https://github.com/alecamar"> alecamar</a>
 <a href="http://orcid.org/0000-0001-9017-7480"> ORCID </a>
 
 <a href="http://scholar.google.ca/citations?user=akY5N4EAAAAJ&hl=en"> Google Scholar </a>
+
+<a href="http:www.needs.ufscar.br"> Lab website </a>
