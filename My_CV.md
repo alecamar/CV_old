@@ -1,7 +1,7 @@
 ---
 title: "My CV"
 author: "Alexandre Camargo Martensen"
-date: '2019-06-18 23:42:22'
+date: '2019-06-19 23:27:57'
 output: 
   html_document:
     keep_md: true
@@ -27,6 +27,9 @@ ___
 
 2017-2018: Posdoc at the Genetics, Conservation and Evolutionary Biology Department at the National Institute for Amazonian Research (GCBEV/INPA)
 
+2007-2018: Director Taki Ambiental
+
+2009-2010: Secretary of Agriculture, Environment, Tourism and Sports of Guapiara
 <br>
 
 <h3>Education</h3>
@@ -43,7 +46,7 @@ ___
 
 <br>
 
-<h3>Lifetime	Publication Summary</h3> (automatically retrieved from Google scholar on	Jun 18 2019)
+<h3>Lifetime	Publication Summary</h3> (automatically retrieved from Google scholar on	Jun 19 2019)
 
 
 

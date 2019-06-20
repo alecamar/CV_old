@@ -1,7 +1,7 @@
 ---
 title: "My CV"
 author: "Alexandre Camargo Martensen"
-date: "February 26, 2016"
+date: '`r Sys.time()`'
 output: 
   html_document:
     keep_md: true
@@ -19,6 +19,10 @@ ___
 2018-current: Assistant Professor, Nature Science Centre, Federal University of São Carlos, Lagoa do Sino <p>
 
 2017-2018: Posdoc at the Genetics, Conservation and Evolutionary Biology Department at the National Institute for Amazonian Research (GCBEV/INPA)
+
+2007-2018: Director Taki Ambiental
+
+2009-2010: Secretary of Agriculture, Environment, Tourism and Sports of Guapiara
 
 <br>
 
