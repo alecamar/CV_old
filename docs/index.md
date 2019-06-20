@@ -1,7 +1,6 @@
 ---
 title: "My CV"
 author: "Alexandre Camargo Martensen"
-date: '`r Sys.time()`'
 output: 
   html_document:
     keep_md: true
