@@ -45,9 +45,13 @@ ___
 
 **2019** <p>
 
+Chase, J.M., Liebergesell, M., Alban Sagouis Felix May Shane A. Blowes Åke Berg Enrico Bernard Berry J. Brosi Marc W. Cadotte Luis Cayuela Adriano G. Chiarello Jean‐Francois Cosson Will Cresswell Filibus Danjuma Dami Jens Dauber Chris R. Dickman Raphael K. Didham David P. Edwards Fábio Z. Farneda Yoni Gavish Thiago Gonçalves‐Souza Demetrio Luis Guadagnin Mickaël Henry Adrià López‐Baucells Heike Kappes Ralph MacNally Shiiwua Manu Alexandre Camargo **MARTENSEN** Duncan McCollin Christoph F.J. Meyer Selvino Neckel‐Oliveira André Nogueira Jean‐Marc Pons Dinarzarde C. Raheem Flavio Nunes Ramos Ricardo Rocha Katerina Sam Eleanor Slade John O. Stireman III Matthew J. Struebig Heraldo Vasconcelos Yaron Ziv (2019) FragSAD: A database of diversity and species abundance distributions from habitat fragments. Ecology. 10.1002/ecy.2861
+
+Periotto, F.,**MARTENSEN**, A. C. 2019. Restauro de Áreas Degradadas: Impactos Geradores e Processos de Restauração Ecológica In: Zabotto, A. R. Estudos Sobre Impactos Ambientais: Uma Abordagem Contemporânea. FEPAF. Botucatu, Brasil. pp. 153-162.
+
 Santos, et al. Neotropical Xenarthrans: A dataset of occurrence of Xenarthran species in the Neotropics. Ecology, https://doi.org/10.1002/ecy.2663
 
-D'Aloia, C.C., Naujokaitis-Lewis, I., Blackford, C., Chu, C., Curtis, J.M.R., Darling, E., Guichard, F., Leroux, S.J.,, Martensen, A.C.,  Rayfield, B., Sunday, J.M., Xuereb, A. & Fortin, M.J. 2019. Coupled Networks of Permanent Protected Areas and Dynamic Conservation Areas for Biodiversity Conservation Under Climate Change. Pp 1-8. DOI: 10.3389/fevo.2019.00027
+D'Aloia, C.C., Naujokaitis-Lewis, I., Blackford, C., Chu, C., Curtis, J.M.R., Darling, E., Guichard, F., Leroux, S.J.,, **MARTENSEN**, A.C.,  Rayfield, B., Sunday, J.M., Xuereb, A. & Fortin, M.J. 2019. Coupled Networks of Permanent Protected Areas and Dynamic Conservation Areas for Biodiversity Conservation Under Climate Change. Pp 1-8. DOI: 10.3389/fevo.2019.00027
 
 **2018** <p>
 
