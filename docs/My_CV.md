@@ -64,19 +64,19 @@ d) Artigos em Revisão 3
 <br>
 Santos, et al. Neotropical Xenarthrans: A dataset of occurrence of Xenarthran species in the Neotropics. Ecology, https://doi.org/10.1002/ecy.2663 IF=4.617
 <br>
-D'Aloia, C.C., Naujokaitis-Lewis, I., Blackford, C., Chu, C., Curtis, J.M.R., Darling, E., Guichard, F., Leroux, S.J.,, Martensen, A.C.,  Rayfield, B., Sunday, J.M., Xuereb, A. & Fortin, M.J. 2019. Coupled Networks of Permanent Protected Areas and Dynamic Conservation Areas for Biodiversity Conservation Under Climate Change. Frontiers in Ecology and Evolution Pp 1-8. DOI: 10.3389/fevo.2019.00027
+D'Aloia, C.C., Naujokaitis-Lewis, I., Blackford, C., Chu, C., Curtis, J.M.R., Darling, E., Guichard, F., Leroux, S.J.,, Martensen, A.C.,  Rayfield, B., Sunday, J.M., Xuereb, A. & Fortin, M.J. 2019. Coupled Networks of Permanent Protected Areas and Dynamic Conservation Areas for Biodiversity Conservation Under Climate Change. Frontiers in Ecology and Evolution Pp 1-8. https://doi.org/10.3389/fevo.2019.00027
 <br>
 **2018** <p>
 <br>
-Giubbina, M.F., **MARTENSEN**, A.C., Ribeiro, M.C. 2018. Sugarcane and Eucalyptus plantation equally limit the movement of two forest-dependent understory bird species. Austral Ecology - DOI10.1111/aec.12589 IF=1.73
+Giubbina, M.F., **MARTENSEN**, A.C., Ribeiro, M.C. 2018. Sugarcane and Eucalyptus plantation equally limit the movement of two forest-dependent understory bird species. Austral Ecology - https://doi.org/10.1111/aec.12589 IF=1.73
 <br>
-Hasui, É., J. P. Metzger, R. G. Pimentel, L. F. Silveira, A. A. d. A. Bovo, A. C. **MARTENSEN**, A. Uezu, A. L. Regolin, A. Â. Bispo de Oliveira, C. A. F. R. Gatto, C. Duca, C. B. Andretti, C. Banks-Leite, D. Luz, D. Mariz, E. R. Alexandrino, F. M. de Barros, F. Martello, I. M. d. S. Pereira, J. N. da Silva, K. M. P. M. d. B. Ferraz, L. N. Naka, L. dos Anjos, M. A. Efe, M. A. Pizo, M. Pichorim, M. S. S. Gonçalves, P. H. C. Cordeiro, R. A. Dias, R. d. L. Muylaert, R. C. Rodrigues, T. V. V. da Costa, V. Cavarzere, V. R. Tonetti, W. R. Silva, C. N. Jenkins, M. Galetti, and M. C. Ribeiro. 2018. ATLANTIC BIRDS: a data set of bird species from the Brazilian Atlantic Forest. Ecology V. 99, p. 497. DOI: 10.1002/ecy.2119 IF=4.617
+Hasui, É., J. P. Metzger, R. G. Pimentel, L. F. Silveira, A. A. d. A. Bovo, A. C. **MARTENSEN**, A. Uezu, A. L. Regolin, A. Â. Bispo de Oliveira, C. A. F. R. Gatto, C. Duca, C. B. Andretti, C. Banks-Leite, D. Luz, D. Mariz, E. R. Alexandrino, F. M. de Barros, F. Martello, I. M. d. S. Pereira, J. N. da Silva, K. M. P. M. d. B. Ferraz, L. N. Naka, L. dos Anjos, M. A. Efe, M. A. Pizo, M. Pichorim, M. S. S. Gonçalves, P. H. C. Cordeiro, R. A. Dias, R. d. L. Muylaert, R. C. Rodrigues, T. V. V. da Costa, V. Cavarzere, V. R. Tonetti, W. R. Silva, C. N. Jenkins, M. Galetti, and M. C. Ribeiro. 2018. ATLANTIC BIRDS: a data set of bird species from the Brazilian Atlantic Forest. Ecology V. 99, p. 497. https://doi.org/10.1002/ecy.2119 IF=4.617
 <br>
 **2017** <p>
 <br>
-Lima, F., G. Beca, R. L. Muylaert, C. N. Jenkins, M. L. L. Perilli, A. M. O. Paschoal, R. L. Massara, A. P. Paglia, A. G. Chiarello, M. E. Graipel, J. J. Cherem, A. L. Regolin, L. G. R. Oliveira Santos, C. R. Brocardo, A. Paviolo, M. S. Di Bitetti, L. M. Scoss, F. L. Rocha, R. Fusco-Costa, C. A. Rosa, M. X. Da Silva, L. Hufnagell, P. M. Santos, G. T. Duarte, L. N. Guimarães, L. L. Bailey, F. H. G. Rodrigues, H. M. Cunha, F. M. Fantacini, G. O. Batista, J. A. Bogoni, M. A. Tortato, M. R. Luiz, N. Peroni, P. V. De Castilho, T. B. Maccarini, V. P. Filho, C. D. Angelo, P. Cruz, V. Quiroga, M. E. Iezzi, D. Varela, S. M. C. Cavalcanti, A. C. **MARTENSEN**, E. V. Maggiorini, F. F. Keesen, A. V. Nunes, G. M. Lessa, P. Cordeiro-Estrela, M. G. Beltrão, A. C. F. De Albuquerque, B. Ingberman, C. R. Cassano, L. C. Junior, M. C. Ribeiro, and M. Galetti. 2017. ATLANTIC-CAMTRAPS: a dataset of medium and large terrestrial mammal communities in the Atlantic Forest of South America. Ecology v. 98, p. 2979. DOI: 10.1002/ecy.1998 IF=4.617
+Lima, F., G. Beca, R. L. Muylaert, C. N. Jenkins, M. L. L. Perilli, A. M. O. Paschoal, R. L. Massara, A. P. Paglia, A. G. Chiarello, M. E. Graipel, J. J. Cherem, A. L. Regolin, L. G. R. Oliveira Santos, C. R. Brocardo, A. Paviolo, M. S. Di Bitetti, L. M. Scoss, F. L. Rocha, R. Fusco-Costa, C. A. Rosa, M. X. Da Silva, L. Hufnagell, P. M. Santos, G. T. Duarte, L. N. Guimarães, L. L. Bailey, F. H. G. Rodrigues, H. M. Cunha, F. M. Fantacini, G. O. Batista, J. A. Bogoni, M. A. Tortato, M. R. Luiz, N. Peroni, P. V. De Castilho, T. B. Maccarini, V. P. Filho, C. D. Angelo, P. Cruz, V. Quiroga, M. E. Iezzi, D. Varela, S. M. C. Cavalcanti, A. C. **MARTENSEN**, E. V. Maggiorini, F. F. Keesen, A. V. Nunes, G. M. Lessa, P. Cordeiro-Estrela, M. G. Beltrão, A. C. F. De Albuquerque, B. Ingberman, C. R. Cassano, L. C. Junior, M. C. Ribeiro, and M. Galetti. 2017. ATLANTIC-CAMTRAPS: a dataset of medium and large terrestrial mammal communities in the Atlantic Forest of South America. Ecology v. 98, p. 2979. https://doi.org/10.1002/ecy.1998 IF=4.617
 <br>
-**MARTENSEN**, A. C., S. Saura, and M.-J. Fortin. 2017. Spatio-temporal connectivity: assessing the amount of reachable habitat in dynamic landscapes. Methods in Ecology and Evolution 8:1253-1264. doi: 10.1111/2041-210X.12799 PDF IF=6.363
+**MARTENSEN**, A. C., S. Saura, and M.-J. Fortin. 2017. Spatio-temporal connectivity: assessing the amount of reachable habitat in dynamic landscapes. Methods in Ecology and Evolution 8:1253-1264. https://doi.org/10.1111/2041-210X.12799 PDF IF=6.363
 <br>
 Braga, A.C.R. & **MARTENSEN**, A.C. 2017. Smallholders: Drivers or targets of Amazonian deforestation? Human Geography 10(1): 67-69 PDF 
 <br>
@@ -92,7 +92,7 @@ Pütz, S.; Groeneveld, J.; Henle, K.; Knogge, C.; **MARTENSEN**, A.C., Metz, M.;
 International: Science daily, Daily News en , Eurekalert , azocleantech , Nature World News , Planet Experts, DAAD Vbio (german), TV 21 (german), Ad Hoc News (german), Scinexx (german), Innovations report (german)<br>
 Brazilian: Jornal Estado de São Paulo, Jornal Folha de São Paulo, Portal UNESP, Madeira Total, Fundacao Getulio Vargas, O Eco
 <br>
-Banks-Leite, C.; Pardini, R.; Tambosi, L.R.; Pearse, W.D.; Bueno, A.A.; Bruscagin, R.T.; Condez, T.H.; Dixo, M.; Igari, A.; **MARTENSEN**, A.C., Metzger, J.P. 2014. Using ecological thresholds to cost set-asides in a biodiversity hotspot. Science 345, no. 6200, pp: 1041-1045. DOI:10.1126/science.1255768 IF=41.058
+Banks-Leite, C.; Pardini, R.; Tambosi, L.R.; Pearse, W.D.; Bueno, A.A.; Bruscagin, R.T.; Condez, T.H.; Dixo, M.; Igari, A.; **MARTENSEN**, A.C., Metzger, J.P. 2014. Using ecological thresholds to cost set-asides in a biodiversity hotspot. Science 345, no. 6200, pp: 1041-1045. https://doi.org/10.1126/science.1255768 IF=41.058
 <br>
 *Media coverage:*<br>
 International: Science Magazine News, Mongabay, Conservation magazine, Science Daily, Science News line, Phys.org<br>
@@ -156,6 +156,10 @@ Metzger, J.P.; Alves, L.; Pardini, R.; Dixo, M.O.; Nogueira, A.; Negrão, M.; **
 <h3>Evaluation committee participation</h3>
 
 **Appraisals**
+<br>
+Pedro Henrique de Godoy Fernandes, participação da banca de qualificaçãod e mestrado. PPGCAm/UFSCar.
+<br>
+Henrique Shirai, participação na banca de qualificação, 2019. Escola Superior de Conservação Ambiental e Sustentabilidade (ESCAS)
 <br>
 Fernando Montini, participação em banca de qualificação, 2018. Seleção de locais prioritários para a restauração com vistas a ampliação da conectividade e a promoção de serviços ecossistêmicos. Exame de qualificação (Mestrando em Mestrado profissionalizante) - Escola Superior de Conservação Ambiental e Sustentabilidade.
 <br>
