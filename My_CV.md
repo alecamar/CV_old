@@ -1,7 +1,7 @@
 ---
 title: "My CV"
 author: "Alexandre Camargo Martensen"
-date: "2019-06-19 11:39:00"
+date: "June 19, 2019"
 output: 
   html_document:
     keep_md: true
@@ -25,14 +25,15 @@ ___
 <h3>Employment</h3>
 2018-current: Assistant Professor, Nature Science Centre, Federal University of São Carlos, Lagoa do Sino <p>
 
-2017-2018: Posdoc at the Genetics, Conservation and Evolutionary Biology Department at the National Institute for Amazonian Research (GCBEV/INPA)
-
 2007-2018: Director Taki Ambiental
 
 2009-2010: Secretary of Agriculture, Environment, Tourism and Sports of Guapiara
 <br>
 
 <h3>Education</h3>
+
+2017-2018: Posdoc at the Genetics, Conservation and Evolutionary Biology Department at the National Institute for Amazonian Research (GCBEV/INPA)
+<br>
 
 2012-2017  **Ph.D.** Ecology and Evolutionary Biology, University of Toronto, Department of Ecology and Evolutionary Biology 
 <p>  Advisor: Marie-Josee Fortin
@@ -46,14 +47,14 @@ ___
 
 <br>
 
-<h3>Lifetime	Publication Summary</h3> (automatically retrieved from Google scholar on	Jun 19 2019)
+<h3>Lifetime	Publication Summary</h3> (automatically retrieved from Google scholar on	Oct 23 2019)
 
 
 
-a) Citações 4487
-b) Publicações 39 
-c) Artigos In Press 1
-d) Artigos em Revisão 3
+a) Citations 4311
+b) Publications 38 
+c) Articles In Press 0
+d) Articles In Review 3
 
 
 <h3>Publications</h3>

@@ -15,9 +15,8 @@ Contact information:<br>
 ___
 
 <h3>Employment</h3>
-2018-current: Assistant Professor, Nature Science Centre, Federal University of São Carlos, Lagoa do Sino <p>
 
-2017-2018: Posdoc at the Genetics, Conservation and Evolutionary Biology Department at the National Institute for Amazonian Research (GCBEV/INPA)
+**2018-current**: *Assistant Professor, Nature Science Centre, Federal University of São Carlos, Lagoa do Sino* <p>
 
 2012: Substitute professor at UNESP Rio Claro (Ecology)
 
@@ -29,6 +28,10 @@ ___
 
 <h3>Education</h3>
 
+
+2017-2018: **Posdoc** at the Genetics, Conservation and Evolutionary Biology Department at the National Institute for Amazonian Research (GCBEV/INPA)
+<br>
+
 2012-2017  **Ph.D.** Ecology and Evolutionary Biology, University of Toronto, Department of Ecology and Evolutionary Biology 
 <p>  Advisor: Marie-Josee Fortin
 
@@ -37,7 +40,7 @@ ___
           
 1997-2001 	  **B.Sc.** Biological Science, University of São Paulo,	Bioscience Institute
 
-2000-2001 	  Teacher diploma,	University of São Paulo,	Bioscience Institute.
+2000-2001 	  **Teacher diploma**,	University of São Paulo,	Bioscience Institute.
 
 <br>
 
@@ -144,6 +147,10 @@ Metzger, J.P.; Alves, L.; Pardini, R.; Dixo, M.O.; Nogueira, A.; Negrão, M.; **
 
 **Appraisals**
 
+Participação em banca de Henrique Shirai. Áreas Prioritárias para Conservação na Mata Atlântica. 2019. Exame de qualificação (Mestrando em Mestrado profissionalizante) - Escola Superior de Conservação Ambiental e Sustentabilidade.
+
+Participação em banca de Pedro Henrique de Godoy Fernandes. Biodiversidade: Hierarquias, Interacoes e hotspots. 2019. Exame de qualificação (Mestrando em Ciências Ambientais) - PPGCAm - Programa de Pós-Graduacão em Ciências Ambientais - UFSCar.
+
 Fernando Montini, participação em banca de qualificação, 2018. Seleção de locais prioritários para a restauração com vistas a ampliação da conectividade e a promoção de serviços ecossistêmicos. Exame de qualificação (Mestrando em Mestrado profissionalizante) - Escola Superior de Conservação Ambiental e Sustentabilidade.
 
 Thays Jucá e Silva, participação em banca de qualificação, 2017. Delimitando ignorância e ameaças: compreendendo o déficit Wallaceano em primatas Amazônicos e sua sobreposição com alto impacto antrópico. Exame de qualificação (Mestrando em Biologia (Ecologia)) - Instituto Nacional de Pesquisas da Amazônia.
@@ -165,6 +172,8 @@ Carolina Moreira Fernandes Ferreira, participação em banca de qualificação, 
 Tamires Aparecida Machado. Ocorrência de bromélias em fragmentos florestais. 2013. Trabalho de Conclusão de Curso (Graduação em Silvicultura) - Centro Estadual de Educação Tecnológica Paula Souza.
 
 **Masters  dissertation**
+
+Participação em banca de Henrique Shirai. Dinâmica da Conectividade da paisagem em ecossistemas fragmentados: Caso da Mata Atlântica. 2019. Dissertação (Mestrado profissionalizante) - Escola Superior de Conservação Ambiental e Sustentabilidade.
 
 Marina Pannunzio Ribeiro. Avaliação da conectividade florestal em paisagem urbana. 2019. Dissertação Mestrado - PPGPUR - UFSCar - Sorocaba.
 
@@ -191,7 +200,7 @@ Rafaela Guimarães Silva. Spatial strategies for Cerrado biome conservation: a m
 2015           - Topics for Biodiversity Conservation, Undergraduate Teaching Assistant, University of Toronto <p>
 2013-2014      - Biostatistics, Undergraduate Teaching Assistant, University of Toronto <p>
 2012           - Community Ecology, Teaching Fellow, University of the State of São Paulo (Rio Claro) <p>
-2009 - Present - Applied Landscape Ecology (1 week course, twice a year), Institute of Ecological Research (IPE) <p>
+2009 - *Present* - Applied Landscape Ecology (1 week course, twice a year), Institute of Ecological Research (IPE) <p>
 2008           - Agroecology, technical course of family agriculture, Centro Paula Souza <p>
 2011           - Landscape Ecology to the Eletric sector (EPE, Brazilian FEderal Government) <p>
 2011           - Applied Landscape Ecology, Ibio <p>
