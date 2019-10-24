@@ -351,7 +351,7 @@ II Brazilian Conference of Landscape Ecology, Salvador, Bahia, Brazil (2012)
 - Counselor of the Evalutaion Biological Science course (Núcleo Docente Estruturante)
 
 *Extension*
-- Coordinator of the NEEDS (Núcleo de Estudos em Ecologia Espacial e Desenvolvimento Sustentável), Spatial ecology and sustainable development group
+- Coordinator of the NEEDS (Núcleo de Estudos em Ecologia Espacial e Desenvolvimento Sustentável), Spatial ecology and sustainable development group (www.needs.ufscar.br)
 
 *Projects*
 - Coordinator of the International Colaboration Project (FAPESP/NWO - The Netherlands), "Governing the Atlantic Forest transition: Improving our knowledge on forest recovery for ecosystem services"
