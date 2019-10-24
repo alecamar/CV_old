@@ -337,6 +337,8 @@ II Brazilian Conference of Landscape Ecology, Salvador, Bahia, Brazil (2012)
 - Environmental Legislation (DTS3), 3rd year Biological Science undergraduate - UFSCar <p>
 - Landscape Ecology (EMA3), 3rd year Biological Science undergraduate - UFSCar <p>
 - Ecological Restoration (EMA3), 3rd year Biological Science undergraduate - UFSCar <p>
+- Landscape management (EMA4), 4ft year Biological Science Undergraduate - UFSCar <p>
+- Natural resources management (CET4), 4th year Biological Science Undergraduate - UFSCar <p>
 - Ecological Restoration (RN5), 5th year Agronomic Engineer undergraduate - UFSCar <p>
 - Environmental Legislation (RN5), 5th year Agronomic Engineer undergraduate - UFSCar <p>
 
