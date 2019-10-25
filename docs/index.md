@@ -187,12 +187,14 @@ Rafaela Guimarães Silva. Spatial strategies for Cerrado biome conservation: a m
 
 <h3>Teaching experience</h3>
 
+2019 - *Present* - Natural resource management (CET4), 4th year Biological Science undergraduate
+2019 - *Present* - Landscape management (EMA4), 4th year Biological Science undergraduate
 2018           - Landscape Ecology, graduate course of the Ecology and graduate course of Genetics, Conservation and Evolutive Biology of INPA (National Institute for Amazonian Research) <p>
 2018           - Environmental monitoring (AD4), 4th year Environmental Engineering - UFSCar <p>
-2018           - Geoprocessing (CET3), 3rd year Biological Science undergraduate - UFSCar <p>
-2018           - Environmental Legislation (DTS3), 3rd year Biological Science undergraduate - UFSCar <p>
-2018           - Landscape Ecology (EMA3), 3rd year Biological Science undergraduate - UFSCar <p>
-2018           - Ecological Restoration (EMA3), 3rd year Biological Science undergraduate - UFSCar <p>
+2018 - *Present*           - Geoprocessing (CET3), 3rd year Biological Science undergraduate - UFSCar <p>
+2018 - *Present*           - Environmental Legislation (DTS3), 3rd year Biological Science undergraduate - UFSCar <p>
+2018 - *Present*           - Landscape Ecology (EMA3), 3rd year Biological Science undergraduate - UFSCar <p>
+2018 - *Present*           - Ecological Restoration (EMA3), 3rd year Biological Science undergraduate - UFSCar <p>
 2018           - Landscape Ecology, to the Secretary of Environment of the State of Minas Gerais <p> 
 2017           - Scientific communication, for the graduate course of the Genetics, Conservation and Evolutive Biology depto, of the National Institute for Amazonian Research (GCBEv/INPA)
 2016           - Applied Conservation Biology, Undergraduate Teaching Assistant, University of Toronto <p>
